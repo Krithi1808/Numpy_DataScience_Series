@@ -1,0 +1,500 @@
+Unnamed: 0,ID,Name,Sex,Age,Height,Weight,Team,NOC,Games,Year,Season,City,Sport,Event,Medal,region
+1,2,A Lamusi,M,23.0,170.0,60.0,China,CHN,2012 Summer,2012,Summer,London,Judo,Judo Men's Extra-Lightweight,No Medal,China
+4,5,Christine Jacoba Aaftink,F,21.0,185.0,82.0,Netherlands,NED,1988 Winter,1988,Winter,Calgary,Speed Skating,Speed Skating Women's 500 metres,No Medal,Netherlands
+5,5,Christine Jacoba Aaftink,F,21.0,185.0,82.0,Netherlands,NED,1988 Winter,1988,Winter,Calgary,Speed Skating,"Speed Skating Women's 1,000 metres",No Medal,Netherlands
+6,5,Christine Jacoba Aaftink,F,25.0,185.0,82.0,Netherlands,NED,1992 Winter,1992,Winter,Albertville,Speed Skating,Speed Skating Women's 500 metres,No Medal,Netherlands
+7,5,Christine Jacoba Aaftink,F,25.0,185.0,82.0,Netherlands,NED,1992 Winter,1992,Winter,Albertville,Speed Skating,"Speed Skating Women's 1,000 metres",No Medal,Netherlands
+8,5,Christine Jacoba Aaftink,F,27.0,185.0,82.0,Netherlands,NED,1994 Winter,1994,Winter,Lillehammer,Speed Skating,Speed Skating Women's 500 metres,No Medal,Netherlands
+9,5,Christine Jacoba Aaftink,F,27.0,185.0,82.0,Netherlands,NED,1994 Winter,1994,Winter,Lillehammer,Speed Skating,"Speed Skating Women's 1,000 metres",No Medal,Netherlands
+10,6,Per Knut Aaland,M,31.0,188.0,75.0,United States,USA,1992 Winter,1992,Winter,Albertville,Cross Country Skiing,Cross Country Skiing Men's 10 kilometres,No Medal,USA
+11,6,Per Knut Aaland,M,31.0,188.0,75.0,United States,USA,1992 Winter,1992,Winter,Albertville,Cross Country Skiing,Cross Country Skiing Men's 50 kilometres,No Medal,USA
+12,6,Per Knut Aaland,M,31.0,188.0,75.0,United States,USA,1992 Winter,1992,Winter,Albertville,Cross Country Skiing,Cross Country Skiing Men's 10/15 kilometres Pursuit,No Medal,USA
+13,6,Per Knut Aaland,M,31.0,188.0,75.0,United States,USA,1992 Winter,1992,Winter,Albertville,Cross Country Skiing,Cross Country Skiing Men's 4 x 10 kilometres Relay,No Medal,USA
+14,6,Per Knut Aaland,M,33.0,188.0,75.0,United States,USA,1994 Winter,1994,Winter,Lillehammer,Cross Country Skiing,Cross Country Skiing Men's 10 kilometres,No Medal,USA
+15,6,Per Knut Aaland,M,33.0,188.0,75.0,United States,USA,1994 Winter,1994,Winter,Lillehammer,Cross Country Skiing,Cross Country Skiing Men's 30 kilometres,No Medal,USA
+16,6,Per Knut Aaland,M,33.0,188.0,75.0,United States,USA,1994 Winter,1994,Winter,Lillehammer,Cross Country Skiing,Cross Country Skiing Men's 10/15 kilometres Pursuit,No Medal,USA
+17,6,Per Knut Aaland,M,33.0,188.0,75.0,United States,USA,1994 Winter,1994,Winter,Lillehammer,Cross Country Skiing,Cross Country Skiing Men's 4 x 10 kilometres Relay,No Medal,USA
+18,7,John Aalberg,M,31.0,183.0,72.0,United States,USA,1992 Winter,1992,Winter,Albertville,Cross Country Skiing,Cross Country Skiing Men's 10 kilometres,No Medal,USA
+19,7,John Aalberg,M,31.0,183.0,72.0,United States,USA,1992 Winter,1992,Winter,Albertville,Cross Country Skiing,Cross Country Skiing Men's 50 kilometres,No Medal,USA
+20,7,John Aalberg,M,31.0,183.0,72.0,United States,USA,1992 Winter,1992,Winter,Albertville,Cross Country Skiing,Cross Country Skiing Men's 10/15 kilometres Pursuit,No Medal,USA
+21,7,John Aalberg,M,31.0,183.0,72.0,United States,USA,1992 Winter,1992,Winter,Albertville,Cross Country Skiing,Cross Country Skiing Men's 4 x 10 kilometres Relay,No Medal,USA
+22,7,John Aalberg,M,33.0,183.0,72.0,United States,USA,1994 Winter,1994,Winter,Lillehammer,Cross Country Skiing,Cross Country Skiing Men's 10 kilometres,No Medal,USA
+23,7,John Aalberg,M,33.0,183.0,72.0,United States,USA,1994 Winter,1994,Winter,Lillehammer,Cross Country Skiing,Cross Country Skiing Men's 30 kilometres,No Medal,USA
+24,7,John Aalberg,M,33.0,183.0,72.0,United States,USA,1994 Winter,1994,Winter,Lillehammer,Cross Country Skiing,Cross Country Skiing Men's 10/15 kilometres Pursuit,No Medal,USA
+25,7,John Aalberg,M,33.0,183.0,72.0,United States,USA,1994 Winter,1994,Winter,Lillehammer,Cross Country Skiing,Cross Country Skiing Men's 4 x 10 kilometres Relay,No Medal,USA
+28,9,Antti Sami Aalto,M,26.0,186.0,96.0,Finland,FIN,2002 Winter,2002,Winter,Salt Lake City,Ice Hockey,Ice Hockey Men's Ice Hockey,No Medal,Finland
+30,11,Jorma Ilmari Aalto,M,22.0,182.0,76.5,Finland,FIN,1980 Winter,1980,Winter,Lake Placid,Cross Country Skiing,Cross Country Skiing Men's 30 kilometres,No Medal,Finland
+31,12,Jyri Tapani Aalto,M,31.0,172.0,70.0,Finland,FIN,2000 Summer,2000,Summer,Sydney,Badminton,Badminton Men's Singles,No Medal,Finland
+32,13,Minna Maarit Aalto,F,30.0,159.0,55.5,Finland,FIN,1996 Summer,1996,Summer,Atlanta,Sailing,Sailing Women's Windsurfer,No Medal,Finland
+33,13,Minna Maarit Aalto,F,34.0,159.0,55.5,Finland,FIN,2000 Summer,2000,Summer,Sydney,Sailing,Sailing Women's Windsurfer,No Medal,Finland
+34,14,Pirjo Hannele Aalto (Mattila-),F,32.0,171.0,65.0,Finland,FIN,1994 Winter,1994,Winter,Lillehammer,Biathlon,Biathlon Women's 7.5 kilometres Sprint,No Medal,Finland
+40,16,Juhamatti Tapio Aaltonen,M,28.0,184.0,85.0,Finland,FIN,2014 Winter,2014,Winter,Sochi,Ice Hockey,Ice Hockey Men's Ice Hockey,Bronze,Finland
+41,17,Paavo Johannes Aaltonen,M,28.0,175.0,64.0,Finland,FIN,1948 Summer,1948,Summer,London,Gymnastics,Gymnastics Men's Individual All-Around,Bronze,Finland
+42,17,Paavo Johannes Aaltonen,M,28.0,175.0,64.0,Finland,FIN,1948 Summer,1948,Summer,London,Gymnastics,Gymnastics Men's Team All-Around,Gold,Finland
+43,17,Paavo Johannes Aaltonen,M,28.0,175.0,64.0,Finland,FIN,1948 Summer,1948,Summer,London,Gymnastics,Gymnastics Men's Floor Exercise,No Medal,Finland
+44,17,Paavo Johannes Aaltonen,M,28.0,175.0,64.0,Finland,FIN,1948 Summer,1948,Summer,London,Gymnastics,Gymnastics Men's Horse Vault,Gold,Finland
+45,17,Paavo Johannes Aaltonen,M,28.0,175.0,64.0,Finland,FIN,1948 Summer,1948,Summer,London,Gymnastics,Gymnastics Men's Parallel Bars,No Medal,Finland
+46,17,Paavo Johannes Aaltonen,M,28.0,175.0,64.0,Finland,FIN,1948 Summer,1948,Summer,London,Gymnastics,Gymnastics Men's Horizontal Bar,No Medal,Finland
+47,17,Paavo Johannes Aaltonen,M,28.0,175.0,64.0,Finland,FIN,1948 Summer,1948,Summer,London,Gymnastics,Gymnastics Men's Rings,No Medal,Finland
+48,17,Paavo Johannes Aaltonen,M,28.0,175.0,64.0,Finland,FIN,1948 Summer,1948,Summer,London,Gymnastics,Gymnastics Men's Pommelled Horse,Gold,Finland
+49,17,Paavo Johannes Aaltonen,M,32.0,175.0,64.0,Finland,FIN,1952 Summer,1952,Summer,Helsinki,Gymnastics,Gymnastics Men's Individual All-Around,No Medal,Finland
+50,17,Paavo Johannes Aaltonen,M,32.0,175.0,64.0,Finland,FIN,1952 Summer,1952,Summer,Helsinki,Gymnastics,Gymnastics Men's Team All-Around,Bronze,Finland
+51,17,Paavo Johannes Aaltonen,M,32.0,175.0,64.0,Finland,FIN,1952 Summer,1952,Summer,Helsinki,Gymnastics,Gymnastics Men's Floor Exercise,No Medal,Finland
+52,17,Paavo Johannes Aaltonen,M,32.0,175.0,64.0,Finland,FIN,1952 Summer,1952,Summer,Helsinki,Gymnastics,Gymnastics Men's Horse Vault,No Medal,Finland
+53,17,Paavo Johannes Aaltonen,M,32.0,175.0,64.0,Finland,FIN,1952 Summer,1952,Summer,Helsinki,Gymnastics,Gymnastics Men's Parallel Bars,No Medal,Finland
+54,17,Paavo Johannes Aaltonen,M,32.0,175.0,64.0,Finland,FIN,1952 Summer,1952,Summer,Helsinki,Gymnastics,Gymnastics Men's Horizontal Bar,No Medal,Finland
+55,17,Paavo Johannes Aaltonen,M,32.0,175.0,64.0,Finland,FIN,1952 Summer,1952,Summer,Helsinki,Gymnastics,Gymnastics Men's Rings,No Medal,Finland
+56,17,Paavo Johannes Aaltonen,M,32.0,175.0,64.0,Finland,FIN,1952 Summer,1952,Summer,Helsinki,Gymnastics,Gymnastics Men's Pommelled Horse,No Medal,Finland
+57,18,Timo Antero Aaltonen,M,31.0,189.0,130.0,Finland,FIN,2000 Summer,2000,Summer,Sydney,Athletics,Athletics Men's Shot Put,No Medal,Finland
+59,20,Kjetil Andr Aamodt,M,20.0,176.0,85.0,Norway,NOR,1992 Winter,1992,Winter,Albertville,Alpine Skiing,Alpine Skiing Men's Downhill,No Medal,Norway
+60,20,Kjetil Andr Aamodt,M,20.0,176.0,85.0,Norway,NOR,1992 Winter,1992,Winter,Albertville,Alpine Skiing,Alpine Skiing Men's Super G,Gold,Norway
+61,20,Kjetil Andr Aamodt,M,20.0,176.0,85.0,Norway,NOR,1992 Winter,1992,Winter,Albertville,Alpine Skiing,Alpine Skiing Men's Giant Slalom,Bronze,Norway
+62,20,Kjetil Andr Aamodt,M,20.0,176.0,85.0,Norway,NOR,1992 Winter,1992,Winter,Albertville,Alpine Skiing,Alpine Skiing Men's Slalom,No Medal,Norway
+63,20,Kjetil Andr Aamodt,M,22.0,176.0,85.0,Norway,NOR,1994 Winter,1994,Winter,Lillehammer,Alpine Skiing,Alpine Skiing Men's Downhill,Silver,Norway
+64,20,Kjetil Andr Aamodt,M,22.0,176.0,85.0,Norway,NOR,1994 Winter,1994,Winter,Lillehammer,Alpine Skiing,Alpine Skiing Men's Super G,Bronze,Norway
+65,20,Kjetil Andr Aamodt,M,22.0,176.0,85.0,Norway,NOR,1994 Winter,1994,Winter,Lillehammer,Alpine Skiing,Alpine Skiing Men's Giant Slalom,No Medal,Norway
+66,20,Kjetil Andr Aamodt,M,22.0,176.0,85.0,Norway,NOR,1994 Winter,1994,Winter,Lillehammer,Alpine Skiing,Alpine Skiing Men's Slalom,No Medal,Norway
+67,20,Kjetil Andr Aamodt,M,22.0,176.0,85.0,Norway,NOR,1994 Winter,1994,Winter,Lillehammer,Alpine Skiing,Alpine Skiing Men's Combined,Silver,Norway
+68,20,Kjetil Andr Aamodt,M,26.0,176.0,85.0,Norway,NOR,1998 Winter,1998,Winter,Nagano,Alpine Skiing,Alpine Skiing Men's Downhill,No Medal,Norway
+69,20,Kjetil Andr Aamodt,M,26.0,176.0,85.0,Norway,NOR,1998 Winter,1998,Winter,Nagano,Alpine Skiing,Alpine Skiing Men's Super G,No Medal,Norway
+70,20,Kjetil Andr Aamodt,M,26.0,176.0,85.0,Norway,NOR,1998 Winter,1998,Winter,Nagano,Alpine Skiing,Alpine Skiing Men's Giant Slalom,No Medal,Norway
+71,20,Kjetil Andr Aamodt,M,26.0,176.0,85.0,Norway,NOR,1998 Winter,1998,Winter,Nagano,Alpine Skiing,Alpine Skiing Men's Combined,No Medal,Norway
+72,20,Kjetil Andr Aamodt,M,30.0,176.0,85.0,Norway,NOR,2002 Winter,2002,Winter,Salt Lake City,Alpine Skiing,Alpine Skiing Men's Downhill,No Medal,Norway
+73,20,Kjetil Andr Aamodt,M,30.0,176.0,85.0,Norway,NOR,2002 Winter,2002,Winter,Salt Lake City,Alpine Skiing,Alpine Skiing Men's Super G,Gold,Norway
+74,20,Kjetil Andr Aamodt,M,30.0,176.0,85.0,Norway,NOR,2002 Winter,2002,Winter,Salt Lake City,Alpine Skiing,Alpine Skiing Men's Giant Slalom,No Medal,Norway
+75,20,Kjetil Andr Aamodt,M,30.0,176.0,85.0,Norway,NOR,2002 Winter,2002,Winter,Salt Lake City,Alpine Skiing,Alpine Skiing Men's Slalom,No Medal,Norway
+76,20,Kjetil Andr Aamodt,M,30.0,176.0,85.0,Norway,NOR,2002 Winter,2002,Winter,Salt Lake City,Alpine Skiing,Alpine Skiing Men's Combined,Gold,Norway
+77,20,Kjetil Andr Aamodt,M,34.0,176.0,85.0,Norway,NOR,2006 Winter,2006,Winter,Torino,Alpine Skiing,Alpine Skiing Men's Downhill,No Medal,Norway
+78,20,Kjetil Andr Aamodt,M,34.0,176.0,85.0,Norway,NOR,2006 Winter,2006,Winter,Torino,Alpine Skiing,Alpine Skiing Men's Super G,Gold,Norway
+80,22,Andreea Aanei,F,22.0,170.0,125.0,Romania,ROU,2016 Summer,2016,Summer,Rio de Janeiro,Weightlifting,Weightlifting Women's Super-Heavyweight,No Medal,Romania
+81,23,Fritz Aanes,M,22.0,187.0,89.0,Norway,NOR,2000 Summer,2000,Summer,Sydney,Wrestling,"Wrestling Men's Light-Heavyweight, Greco-Roman",No Medal,Norway
+82,23,Fritz Aanes,M,26.0,187.0,89.0,Norway,NOR,2004 Summer,2004,Summer,Athina,Wrestling,"Wrestling Men's Light-Heavyweight, Greco-Roman",No Medal,Norway
+87,26,Agnes Erika Aanonsen (-Eyde),F,17.0,169.0,65.0,Norway,NOR,1984 Winter,1984,Winter,Sarajevo,Luge,Luge Women's Singles,No Medal,Norway
+89,28,Jan-Erik Aarberg,M,43.0,170.0,77.0,Norway,NOR,1968 Summer,1968,Summer,Mexico City,Sailing,Sailing Mixed Three Person Keelboat,No Medal,Norway
+90,28,Jan-Erik Aarberg,M,47.0,170.0,77.0,Norway,NOR,1972 Summer,1972,Summer,Munich,Sailing,Sailing Mixed Three Person Keelboat,No Medal,Norway
+92,30,Pepijn Aardewijn,M,26.0,189.0,72.0,Netherlands,NED,1996 Summer,1996,Summer,Atlanta,Rowing,Rowing Men's Lightweight Double Sculls,Silver,Netherlands
+93,30,Pepijn Aardewijn,M,30.0,189.0,72.0,Netherlands,NED,2000 Summer,2000,Summer,Sydney,Rowing,Rowing Men's Lightweight Double Sculls,No Medal,Netherlands
+94,31,Evald rma (rman-),M,24.0,174.0,70.0,Estonia,EST,1936 Summer,1936,Summer,Berlin,Athletics,Athletics Men's Pole Vault,No Medal,Estonia
+96,33,Mika Lauri Aarnikka,M,24.0,187.0,76.0,Finland,FIN,1992 Summer,1992,Summer,Barcelona,Sailing,Sailing Men's Two Person Dinghy,No Medal,Finland
+97,33,Mika Lauri Aarnikka,M,28.0,187.0,76.0,Finland,FIN,1996 Summer,1996,Summer,Atlanta,Sailing,Sailing Men's Two Person Dinghy,No Medal,Finland
+98,34,Jamale (Djamel-) Aarrass (Ahrass-),M,30.0,187.0,76.0,France,FRA,2012 Summer,2012,Summer,London,Athletics,"Athletics Men's 1,500 metres",No Medal,France
+99,35,Dagfinn Sverre Aarskog,M,24.0,190.0,98.0,Norway,NOR,1998 Winter,1998,Winter,Nagano,Bobsleigh,Bobsleigh Men's Four,No Medal,Norway
+100,36,Stefan Remco Aartsen,M,21.0,194.0,78.0,Netherlands,NED,1996 Summer,1996,Summer,Atlanta,Swimming,Swimming Men's 100 metres Butterfly,No Medal,Netherlands
+101,36,Stefan Remco Aartsen,M,21.0,194.0,78.0,Netherlands,NED,1996 Summer,1996,Summer,Atlanta,Swimming,Swimming Men's 200 metres Butterfly,No Medal,Netherlands
+102,36,Stefan Remco Aartsen,M,21.0,194.0,78.0,Netherlands,NED,1996 Summer,1996,Summer,Atlanta,Swimming,Swimming Men's 4 x 100 metres Medley Relay,No Medal,Netherlands
+103,36,Stefan Remco Aartsen,M,25.0,194.0,78.0,Netherlands,NED,2000 Summer,2000,Summer,Sydney,Swimming,Swimming Men's 100 metres Butterfly,No Medal,Netherlands
+104,36,Stefan Remco Aartsen,M,25.0,194.0,78.0,Netherlands,NED,2000 Summer,2000,Summer,Sydney,Swimming,Swimming Men's 200 metres Butterfly,No Medal,Netherlands
+105,37,Ann Kristin Aarnes,F,23.0,182.0,64.0,Norway,NOR,1996 Summer,1996,Summer,Atlanta,Football,Football Women's Football,Bronze,Norway
+118,43,Morten Gjerdrum Aasen,M,34.0,185.0,75.0,Norway,NOR,1992 Summer,1992,Summer,Barcelona,Equestrianism,"Equestrianism Mixed Jumping, Individual",No Medal,Norway
+119,44,Meelis Aasme,M,25.0,182.0,73.0,Estonia,EST,1998 Winter,1998,Winter,Nagano,Cross Country Skiing,Cross Country Skiing Men's 30 kilometres,No Medal,Estonia
+120,44,Meelis Aasme,M,25.0,182.0,73.0,Estonia,EST,1998 Winter,1998,Winter,Nagano,Cross Country Skiing,Cross Country Skiing Men's 50 kilometres,No Medal,Estonia
+121,44,Meelis Aasme,M,29.0,182.0,73.0,Estonia,EST,2002 Winter,2002,Winter,Salt Lake City,Cross Country Skiing,Cross Country Skiing Men's 15 kilometres,No Medal,Estonia
+122,44,Meelis Aasme,M,29.0,182.0,73.0,Estonia,EST,2002 Winter,2002,Winter,Salt Lake City,Cross Country Skiing,Cross Country Skiing Men's 50 kilometres,No Medal,Estonia
+123,44,Meelis Aasme,M,29.0,182.0,73.0,Estonia,EST,2002 Winter,2002,Winter,Salt Lake City,Cross Country Skiing,Cross Country Skiing Men's 4 x 10 kilometres Relay,No Medal,Estonia
+125,46,Hans Aasns,M,33.0,194.0,93.0,Norway,NOR,1936 Summer,1936,Summer,Berlin,Shooting,"Shooting Men's Rapid-Fire Pistol, 25 metres",No Medal,Norway
+126,46,Hans Aasns,M,45.0,194.0,93.0,Norway,NOR,1948 Summer,1948,Summer,London,Shooting,"Shooting Men's Rapid-Fire Pistol, 25 metres",No Medal,Norway
+127,46,Hans Aasns,M,49.0,194.0,93.0,Norway,NOR,1952 Summer,1952,Summer,Helsinki,Shooting,Shooting Men's Trap,No Medal,Norway
+128,46,Hans Aasns,M,53.0,194.0,93.0,Norway,NOR,1956 Summer,1956,Summer,Melbourne,Shooting,Shooting Men's Trap,No Medal,Norway
+129,46,Hans Aasns,M,57.0,194.0,93.0,Norway,NOR,1960 Summer,1960,Summer,Roma,Shooting,Shooting Men's Trap,No Medal,Norway
+130,47,Erling Rudolf Aastad,M,22.0,177.0,74.0,Norway,NOR,1920 Summer,1920,Summer,Antwerpen,Athletics,Athletics Men's 4 x 100 metres Relay,No Medal,Norway
+131,47,Erling Rudolf Aastad,M,22.0,177.0,74.0,Norway,NOR,1920 Summer,1920,Summer,Antwerpen,Athletics,Athletics Men's Long Jump,No Medal,Norway
+132,47,Erling Rudolf Aastad,M,26.0,177.0,74.0,Norway,NOR,1924 Summer,1924,Summer,Paris,Athletics,Athletics Men's Long Jump,No Medal,Norway
+133,47,Erling Rudolf Aastad,M,30.0,177.0,74.0,Norway,NOR,1928 Summer,1928,Summer,Amsterdam,Athletics,Athletics Men's Long Jump,No Medal,Norway
+135,49,Moonika Aava,F,24.0,168.0,65.0,Estonia,EST,2004 Summer,2004,Summer,Athina,Athletics,Athletics Women's Javelin Throw,No Medal,Estonia
+136,49,Moonika Aava,F,28.0,168.0,65.0,Estonia,EST,2008 Summer,2008,Summer,Beijing,Athletics,Athletics Women's Javelin Throw,No Medal,Estonia
+137,50,Arvi Aavik,M,22.0,185.0,106.0,Estonia,EST,1992 Summer,1992,Summer,Barcelona,Wrestling,"Wrestling Men's Heavyweight, Freestyle",No Medal,Estonia
+138,50,Arvi Aavik,M,26.0,185.0,106.0,Estonia,EST,1996 Summer,1996,Summer,Atlanta,Wrestling,"Wrestling Men's Heavyweight, Freestyle",No Medal,Estonia
+139,51,Nstor Abad Sanjun,M,23.0,167.0,64.0,Spain,ESP,2016 Summer,2016,Summer,Rio de Janeiro,Gymnastics,Gymnastics Men's Individual All-Around,No Medal,Spain
+140,51,Nstor Abad Sanjun,M,23.0,167.0,64.0,Spain,ESP,2016 Summer,2016,Summer,Rio de Janeiro,Gymnastics,Gymnastics Men's Floor Exercise,No Medal,Spain
+141,51,Nstor Abad Sanjun,M,23.0,167.0,64.0,Spain,ESP,2016 Summer,2016,Summer,Rio de Janeiro,Gymnastics,Gymnastics Men's Parallel Bars,No Medal,Spain
+142,51,Nstor Abad Sanjun,M,23.0,167.0,64.0,Spain,ESP,2016 Summer,2016,Summer,Rio de Janeiro,Gymnastics,Gymnastics Men's Horizontal Bar,No Medal,Spain
+143,51,Nstor Abad Sanjun,M,23.0,167.0,64.0,Spain,ESP,2016 Summer,2016,Summer,Rio de Janeiro,Gymnastics,Gymnastics Men's Rings,No Medal,Spain
+144,51,Nstor Abad Sanjun,M,23.0,167.0,64.0,Spain,ESP,2016 Summer,2016,Summer,Rio de Janeiro,Gymnastics,Gymnastics Men's Pommelled Horse,No Medal,Spain
+145,52,Patrick Abada,M,22.0,189.0,80.0,France,FRA,1976 Summer,1976,Summer,Montreal,Athletics,Athletics Men's Pole Vault,No Medal,France
+146,53,Talaat Abada,M,24.0,172.0,58.0,Egypt,EGY,2000 Summer,2000,Summer,Sydney,Taekwondo,Taekwondo Men's Flyweight,No Medal,Egypt
+148,55,Antonio Abadia Beci,M,26.0,170.0,65.0,Spain,ESP,2016 Summer,2016,Summer,Rio de Janeiro,Athletics,"Athletics Men's 5,000 metres",No Medal,Spain
+151,57,Borislav Abadzhiev,M,24.0,176.0,66.0,Bulgaria,BUL,1988 Summer,1988,Summer,Seoul,Boxing,Boxing Men's Light-Welterweight,No Medal,Bulgaria
+154,59,Ivan Nikolov Abadzhiev,M,24.0,164.0,71.0,Bulgaria,BUL,1956 Summer,1956,Summer,Melbourne,Weightlifting,Weightlifting Men's Lightweight,No Medal,Bulgaria
+155,59,Ivan Nikolov Abadzhiev,M,28.0,164.0,71.0,Bulgaria,BUL,1960 Summer,1960,Summer,Roma,Weightlifting,Weightlifting Men's Middleweight,No Medal,Bulgaria
+156,60,Mikhail Abadzhiev,M,24.0,172.0,75.0,Bulgaria,BUL,1960 Summer,1960,Summer,Roma,Weightlifting,Weightlifting Men's Middleweight,No Medal,Bulgaria
+157,61,Stefan Abadzhiev,M,26.0,175.0,72.0,Bulgaria,BUL,1960 Summer,1960,Summer,Roma,Football,Football Men's Football,No Medal,Bulgaria
+158,62,Giovanni Abagnale,M,21.0,198.0,90.0,Italy,ITA,2016 Summer,2016,Summer,Rio de Janeiro,Rowing,Rowing Men's Coxless Pairs,Bronze,Italy
+159,63,Jos Luis Abajo Gmez,M,30.0,194.0,87.0,Spain,ESP,2008 Summer,2008,Summer,Beijing,Fencing,"Fencing Men's epee, Individual",Bronze,Spain
+161,65,Patimat Abakarova,F,21.0,165.0,49.0,Azerbaijan,AZE,2016 Summer,2016,Summer,Rio de Janeiro,Taekwondo,Taekwondo Women's Flyweight,Bronze,Azerbaijan
+163,67,Mariya Vasilyevna Abakumova (-Tarabina),F,22.0,179.0,80.0,Russia,RUS,2008 Summer,2008,Summer,Beijing,Athletics,Athletics Women's Javelin Throw,Silver,Russia
+164,67,Mariya Vasilyevna Abakumova (-Tarabina),F,26.0,179.0,80.0,Russia,RUS,2012 Summer,2012,Summer,London,Athletics,Athletics Women's Javelin Throw,No Medal,Russia
+165,68,Pablo Martn Abal,M,23.0,178.0,76.0,Argentina,ARG,2000 Summer,2000,Summer,Sydney,Swimming,Swimming Men's 100 metres Butterfly,No Medal,Argentina
+166,68,Pablo Martn Abal,M,23.0,178.0,76.0,Argentina,ARG,2000 Summer,2000,Summer,Sydney,Swimming,Swimming Men's 4 x 100 metres Medley Relay,No Medal,Argentina
+167,69,Tamara Abalde Daz,F,19.0,185.0,72.0,Spain,ESP,2008 Summer,2008,Summer,Beijing,Basketball,Basketball Women's Basketball,No Medal,Spain
+168,70,Jess Iory Aball Martnez,M,26.0,167.0,65.0,Cuba,CUB,2000 Summer,2000,Summer,Sydney,Diving,Diving Men's Platform,No Medal,Cuba
+169,71,Juan Antonio Aball Delgado,M,27.0,172.0,82.0,Cuba,CUB,1992 Summer,1992,Summer,Barcelona,Canoeing,"Canoeing Men's Canadian Doubles, 500 metres",No Medal,Cuba
+170,71,Juan Antonio Aball Delgado,M,27.0,172.0,82.0,Cuba,CUB,1992 Summer,1992,Summer,Barcelona,Canoeing,"Canoeing Men's Canadian Doubles, 1,000 metres",No Medal,Cuba
+171,72,Aleksey Aleksandrovich Abalmasov,M,24.0,180.0,83.0,Belarus,BLR,2004 Summer,2004,Summer,Athina,Canoeing,"Canoeing Men's Kayak Fours, 1,000 metres",No Medal,Belarus
+172,72,Aleksey Aleksandrovich Abalmasov,M,28.0,180.0,83.0,Belarus,BLR,2008 Summer,2008,Summer,Beijing,Canoeing,"Canoeing Men's Kayak Fours, 1,000 metres",Gold,Belarus
+173,73,Luc Abalo,M,23.0,182.0,86.0,France,FRA,2008 Summer,2008,Summer,Beijing,Handball,Handball Men's Handball,Gold,France
+174,73,Luc Abalo,M,27.0,182.0,86.0,France,FRA,2012 Summer,2012,Summer,London,Handball,Handball Men's Handball,Gold,France
+175,73,Luc Abalo,M,31.0,182.0,86.0,France,FRA,2016 Summer,2016,Summer,Rio de Janeiro,Handball,Handball Men's Handball,Silver,France
+176,74,Mara Laura Abalo,F,30.0,182.0,73.0,Argentina,ARG,2012 Summer,2012,Summer,London,Rowing,Rowing Women's Coxless Pairs,No Medal,Argentina
+177,75,Giorgos Abalof,M,22.0,178.0,70.0,Greece,GRE,2004 Summer,2004,Summer,Athina,Fencing,"Fencing Men's epee, Individual",No Medal,Greece
+178,76,Jouan Patrice Abanda Etong,M,22.0,185.0,82.0,Cameroon,CMR,2000 Summer,2000,Summer,Sydney,Football,Football Men's Football,Gold,Cameroon
+179,77,Antoine Abang,M,27.0,166.0,75.0,Cameroon,CMR,1968 Summer,1968,Summer,Mexico City,Boxing,Boxing Men's Middleweight,No Medal,Cameroon
+182,80,Jos Mara Abarca Plotas,M,22.0,186.0,83.0,Spain,ESP,1996 Summer,1996,Summer,Atlanta,Water Polo,Water Polo Men's Water Polo,Gold,Spain
+183,81,Georgios Abaris,M,22.0,190.0,77.0,Greece,GRE,2004 Summer,2004,Summer,Athina,Football,Football Men's Football,No Medal,Greece
+184,82,Enrique Abaroa Martnez,M,26.0,183.0,75.0,Mexico,MEX,2000 Summer,2000,Summer,Sydney,Tennis,Tennis Men's Doubles,No Medal,Mexico
+186,84,Stephen Anthony Abas,M,26.0,165.0,55.0,United States,USA,2004 Summer,2004,Summer,Athina,Wrestling,"Wrestling Men's Featherweight, Freestyle",Silver,USA
+187,85,Alejandro Abascal Garca,M,24.0,181.0,82.0,Spain,ESP,1976 Summer,1976,Summer,Montreal,Sailing,Sailing Mixed Two Person Heavyweight Dinghy,No Medal,Spain
+188,85,Alejandro Abascal Garca,M,28.0,181.0,82.0,Spain,ESP,1980 Summer,1980,Summer,Moskva,Sailing,Sailing Mixed Two Person Heavyweight Dinghy,Gold,Spain
+189,85,Alejandro Abascal Garca,M,32.0,181.0,82.0,Spain,ESP,1984 Summer,1984,Summer,Los Angeles,Sailing,Sailing Mixed Two Person Heavyweight Dinghy,No Medal,Spain
+190,86,Jos Manuel Abascal Gmez,M,22.0,182.0,67.0,Spain,ESP,1980 Summer,1980,Summer,Moskva,Athletics,"Athletics Men's 1,500 metres",No Medal,Spain
+191,86,Jos Manuel Abascal Gmez,M,26.0,182.0,67.0,Spain,ESP,1984 Summer,1984,Summer,Los Angeles,Athletics,"Athletics Men's 1,500 metres",Bronze,Spain
+192,87,Rost'om Omeris dze Abashidze,M,29.0,188.0,97.0,Soviet Union,URS,1964 Summer,1964,Summer,Tokyo,Wrestling,"Wrestling Men's Light-Heavyweight, Greco-Roman",No Medal,Russia
+193,88,Nunu Dzhansuhivna Abashydze (-Myslaieva),F,25.0,168.0,105.0,Soviet Union,URS,1980 Summer,1980,Summer,Moskva,Athletics,Athletics Women's Shot Put,No Medal,Russia
+195,90,Tamila Rashidovna Abasova,F,21.0,163.0,60.0,Russia,RUS,2004 Summer,2004,Summer,Athina,Cycling,Cycling Women's Sprint,Silver,Russia
+196,90,Tamila Rashidovna Abasova,F,21.0,163.0,60.0,Russia,RUS,2004 Summer,2004,Summer,Athina,Cycling,Cycling Women's 500 metres Time Trial,No Medal,Russia
+197,91,Emanuele Abate,M,27.0,190.0,80.0,Italy,ITA,2012 Summer,2012,Summer,London,Athletics,Athletics Men's 110 metres Hurdles,No Medal,Italy
+198,92,Ignazio Abate,M,21.0,180.0,73.0,Italy,ITA,2008 Summer,2008,Summer,Beijing,Football,Football Men's Football,No Medal,Italy
+199,93,Jol Marc Abati,M,34.0,190.0,85.0,France,FRA,2004 Summer,2004,Summer,Athina,Handball,Handball Men's Handball,No Medal,France
+200,93,Jol Marc Abati,M,38.0,190.0,85.0,France,FRA,2008 Summer,2008,Summer,Beijing,Handball,Handball Men's Handball,Gold,France
+202,95,Georgia Abatzidou,F,35.0,155.0,43.0,Greece,GRE,2004 Summer,2004,Summer,Athina,Athletics,Athletics Women's Marathon,No Medal,Greece
+203,96,Carlos Rodolfo Abaunza Balladares,M,18.0,168.0,60.0,Nicaragua,NCA,2004 Summer,2004,Summer,Athina,Athletics,Athletics Men's 100 metres,No Medal,Nicaragua
+204,97,Carlos Alberto Abaunza,M,16.0,180.0,70.0,Nicaragua,NCA,1976 Summer,1976,Summer,Montreal,Athletics,Athletics Men's High Jump,No Medal,Nicaragua
+205,98,Hctor Abaunza,M,30.0,169.0,75.0,Mexico,MEX,1968 Summer,1968,Summer,Mexico City,Fencing,"Fencing Men's Foil, Individual",No Medal,Mexico
+206,98,Hctor Abaunza,M,30.0,169.0,75.0,Mexico,MEX,1968 Summer,1968,Summer,Mexico City,Fencing,"Fencing Men's Foil, Team",No Medal,Mexico
+207,98,Hctor Abaunza,M,30.0,169.0,75.0,Mexico,MEX,1968 Summer,1968,Summer,Mexico City,Fencing,"Fencing Men's Sabre, Team",No Medal,Mexico
+208,99,Pter Abay,M,30.0,181.0,79.0,Hungary,HUN,1992 Summer,1992,Summer,Barcelona,Fencing,"Fencing Men's Sabre, Team",Silver,Hungary
+211,101,Adeyemi Abayomi,M,25.0,170.0,51.0,Nigeria,NGR,1972 Summer,1972,Summer,Munich,Boxing,Boxing Men's Lightweight,No Medal,Nigeria
+216,105,Ilyas Abbadi,M,19.0,175.0,75.0,Algeria,ALG,2012 Summer,2012,Summer,London,Boxing,Boxing Men's Welterweight,No Medal,Algeria
+217,105,Ilyas Abbadi,M,23.0,175.0,75.0,Algeria,ALG,2016 Summer,2016,Summer,Rio de Janeiro,Boxing,Boxing Men's Middleweight,No Medal,Algeria
+218,106,Agostino Abbagnale,M,22.0,188.0,96.0,Italy,ITA,1988 Summer,1988,Summer,Seoul,Rowing,Rowing Men's Quadruple Sculls,Gold,Italy
+219,106,Agostino Abbagnale,M,29.0,188.0,96.0,Italy,ITA,1996 Summer,1996,Summer,Atlanta,Rowing,Rowing Men's Double Sculls,Gold,Italy
+220,106,Agostino Abbagnale,M,34.0,188.0,96.0,Italy,ITA,2000 Summer,2000,Summer,Sydney,Rowing,Rowing Men's Quadruple Sculls,Gold,Italy
+221,107,Carmine Abbagnale,M,22.0,182.0,90.0,Italy,ITA,1984 Summer,1984,Summer,Los Angeles,Rowing,Rowing Men's Coxed Pairs,Gold,Italy
+222,107,Carmine Abbagnale,M,26.0,182.0,90.0,Italy,ITA,1988 Summer,1988,Summer,Seoul,Rowing,Rowing Men's Coxed Pairs,Gold,Italy
+223,107,Carmine Abbagnale,M,30.0,182.0,90.0,Italy,ITA,1992 Summer,1992,Summer,Barcelona,Rowing,Rowing Men's Coxed Pairs,Silver,Italy
+224,107,Carmine Abbagnale,M,34.0,182.0,90.0,Italy,ITA,1996 Summer,1996,Summer,Atlanta,Rowing,Rowing Men's Coxed Eights,No Medal,Italy
+225,108,Giuseppe Abbagnale,M,20.0,187.0,97.0,Italy,ITA,1980 Summer,1980,Summer,Moskva,Rowing,Rowing Men's Coxed Pairs,No Medal,Italy
+226,108,Giuseppe Abbagnale,M,25.0,187.0,97.0,Italy,ITA,1984 Summer,1984,Summer,Los Angeles,Rowing,Rowing Men's Coxed Pairs,Gold,Italy
+227,108,Giuseppe Abbagnale,M,29.0,187.0,97.0,Italy,ITA,1988 Summer,1988,Summer,Seoul,Rowing,Rowing Men's Coxed Pairs,Gold,Italy
+228,108,Giuseppe Abbagnale,M,33.0,187.0,97.0,Italy,ITA,1992 Summer,1992,Summer,Barcelona,Rowing,Rowing Men's Coxed Pairs,Silver,Italy
+229,109,Abdul Latif Al-Sayed Abbas Youssef Hashem,M,23.0,176.0,64.0,Kuwait,KUW,1976 Summer,1976,Summer,Montreal,Athletics,Athletics Men's 400 metres Hurdles,No Medal,Kuwait
+230,109,Abdul Latif Al-Sayed Abbas Youssef Hashem,M,23.0,176.0,64.0,Kuwait,KUW,1976 Summer,1976,Summer,Montreal,Athletics,Athletics Men's 4 x 100 metres Relay,No Medal,Kuwait
+231,109,Abdul Latif Al-Sayed Abbas Youssef Hashem,M,27.0,176.0,64.0,Kuwait,KUW,1980 Summer,1980,Summer,Moskva,Athletics,Athletics Men's 400 metres Hurdles,No Medal,Kuwait
+232,110,Abubakar Abbas Abbas,M,20.0,175.0,66.0,Bahrain,BRN,2016 Summer,2016,Summer,Rio de Janeiro,Athletics,Athletics Men's 400 metres,No Medal,Bahrain
+233,111,Aqarab Abbas,M,22.0,190.0,88.0,Pakistan,PAK,1996 Summer,1996,Summer,Atlanta,Athletics,Athletics Men's Hammer Throw,No Medal,Pakistan
+234,112,Aziz Abbas,M,21.0,169.0,67.0,Iraq,IRQ,1964 Summer,1964,Summer,Tokyo,Weightlifting,Weightlifting Men's Lightweight,No Medal,Iraq
+235,113,Bassim Abbas Kati Al-Ogaili,M,22.0,175.0,80.0,Iraq,IRQ,2004 Summer,2004,Summer,Athina,Football,Football Men's Football,No Medal,Iraq
+236,114,Essa Abbas Faleh Hashem,M,20.0,160.0,65.0,Kuwait,KUW,1980 Summer,1980,Summer,Moskva,Athletics,Athletics Men's Long Jump,No Medal,Kuwait
+237,115,Ghulam Abbas,M,24.0,181.0,74.0,Pakistan,PAK,1992 Summer,1992,Summer,Barcelona,Athletics,Athletics Men's 400 metres Hurdles,No Medal,Pakistan
+240,117,Maher Abbas,M,22.0,178.0,78.0,Lebanon,LIB,1988 Summer,1988,Summer,Seoul,Athletics,Athletics Men's 400 metres,No Medal,Lebanon
+241,117,Maher Abbas,M,22.0,178.0,78.0,Lebanon,LIB,1988 Summer,1988,Summer,Seoul,Athletics,Athletics Men's 800 metres,No Medal,Lebanon
+242,118,Mahmoud Abbas,M,22.0,165.0,65.0,Egypt,EGY,2000 Summer,2000,Summer,Sydney,Cycling,"Cycling Men's Road Race, Individual",No Medal,Egypt
+244,120,Mohammed Abbas Sabih,M,26.0,170.0,70.0,Iraq,IRQ,2004 Summer,2004,Summer,Athina,Swimming,Swimming Men's 100 metres Freestyle,No Medal,Iraq
+245,121,Muhammad Abbas,M,23.0,168.0,55.0,Pakistan,PAK,2010 Winter,2010,Winter,Vancouver,Alpine Skiing,Alpine Skiing Men's Giant Slalom,No Medal,Pakistan
+246,122,Nader Sufyan Abbas,M,28.0,173.0,77.0,Qatar,QAT,2004 Summer,2004,Summer,Athina,Weightlifting,Weightlifting Men's Middleweight,No Medal,Qatar
+247,123,Sohail Abbas,M,25.0,178.0,80.0,Pakistan,PAK,2000 Summer,2000,Summer,Sydney,Hockey,Hockey Men's Hockey,No Medal,Pakistan
+248,123,Sohail Abbas,M,29.0,178.0,80.0,Pakistan,PAK,2004 Summer,2004,Summer,Athina,Hockey,Hockey Men's Hockey,No Medal,Pakistan
+249,123,Sohail Abbas,M,37.0,178.0,80.0,Pakistan,PAK,2012 Summer,2012,Summer,London,Hockey,Hockey Men's Hockey,No Medal,Pakistan
+251,125,Zulkifli Abbas,M,28.0,170.0,62.0,Malaysia,MAS,1984 Summer,1984,Summer,Los Angeles,Hockey,Hockey Men's Hockey,No Medal,Malaysia
+252,126,Forough Abbasi,F,20.0,164.0,58.0,Iran,IRI,2014 Winter,2014,Winter,Sochi,Alpine Skiing,Alpine Skiing Women's Slalom,No Medal,Iran
+253,127,Shakeel Abbasi,M,20.0,165.0,60.0,Pakistan,PAK,2004 Summer,2004,Summer,Athina,Hockey,Hockey Men's Hockey,No Medal,Pakistan
+254,127,Shakeel Abbasi,M,24.0,165.0,60.0,Pakistan,PAK,2008 Summer,2008,Summer,Beijing,Hockey,Hockey Men's Hockey,No Medal,Pakistan
+255,127,Shakeel Abbasi,M,28.0,165.0,60.0,Pakistan,PAK,2012 Summer,2012,Summer,London,Hockey,Hockey Men's Hockey,No Medal,Pakistan
+256,128,Soulmaz Abbasi Azad,F,28.0,173.0,60.0,Iran,IRI,2012 Summer,2012,Summer,London,Rowing,Rowing Women's Single Sculls,No Medal,Iran
+257,129,Ruslan Abbasov,M,22.0,181.0,74.0,Azerbaijan,AZE,2008 Summer,2008,Summer,Beijing,Athletics,Athletics Men's 100 metres,No Medal,Azerbaijan
+258,130,Tural Abbasov,M,18.0,182.0,76.0,Azerbaijan,AZE,2008 Summer,2008,Summer,Beijing,Swimming,Swimming Men's 50 metres Freestyle,No Medal,Azerbaijan
+259,131,Tran Abbasova,F,33.0,159.0,53.0,Azerbaijan,AZE,2000 Summer,2000,Summer,Sydney,Weightlifting,Weightlifting Women's Featherweight,No Medal,Azerbaijan
+260,132,Simona Abbate,F,28.0,171.0,64.0,Italy,ITA,2012 Summer,2012,Summer,London,Water Polo,Water Polo Women's Water Polo,No Medal,Italy
+262,134,Christian Abbiati,M,23.0,192.0,90.0,Italy,ITA,2000 Summer,2000,Summer,Sydney,Football,Football Men's Football,No Medal,Italy
+263,135,Lois Abbingh,F,23.0,178.0,72.0,Netherlands,NED,2016 Summer,2016,Summer,Rio de Janeiro,Handball,Handball Women's Handball,No Medal,Netherlands
+264,136,Alessandro Abbio,M,29.0,195.0,85.0,Italy,ITA,2000 Summer,2000,Summer,Sydney,Basketball,Basketball Men's Basketball,No Medal,Italy
+265,137,Giordano Giulio Abbondati,M,15.0,175.0,64.0,Italy,ITA,1964 Winter,1964,Winter,Innsbruck,Figure Skating,Figure Skating Men's Singles,No Medal,Italy
+266,137,Giordano Giulio Abbondati,M,19.0,175.0,64.0,Italy,ITA,1968 Winter,1968,Winter,Grenoble,Figure Skating,Figure Skating Men's Singles,No Medal,Italy
+267,138,Salwan Jasim Abbood Abbood,M,24.0,180.0,104.0,Iraq,IRQ,2016 Summer,2016,Summer,Rio de Janeiro,Weightlifting,Weightlifting Men's Heavyweight,No Medal,Iraq
+269,140,"William ""Bill"" Abbott Jr.",M,42.0,172.0,80.0,Canada,CAN,1996 Summer,1996,Summer,Atlanta,Sailing,Sailing Mixed Three Person Keelboat,No Medal,Canada
+270,140,"William ""Bill"" Abbott Jr.",M,46.0,172.0,80.0,Canada,CAN,2000 Summer,2000,Summer,Sydney,Sailing,Sailing Mixed Three Person Keelboat,No Medal,Canada
+271,141,Clare Abbott,F,30.0,167.0,58.0,Ireland,IRL,2016 Summer,2016,Summer,Rio de Janeiro,Equestrianism,"Equestrianism Mixed Three-Day Event, Individual",No Medal,Ireland
+272,141,Clare Abbott,F,30.0,167.0,58.0,Ireland,IRL,2016 Summer,2016,Summer,Rio de Janeiro,Equestrianism,"Equestrianism Mixed Three-Day Event, Team",No Medal,Ireland
+273,142,"David ""Dave"" Abbott",M,26.0,183.0,75.0,United States,USA,1928 Summer,1928,Summer,Amsterdam,Athletics,"Athletics Men's 5,000 metres",No Medal,USA
+274,143,"Desmond ""Des"" Abbott",M,21.0,184.0,87.0,Australia,AUS,2008 Summer,2008,Summer,Beijing,Hockey,Hockey Men's Hockey,Bronze,Australia
+275,144,Geoffrey Grant Abbott,M,23.0,179.0,80.0,South Africa,RSA,2008 Summer,2008,Summer,Beijing,Hockey,Hockey Men's Hockey,No Medal,South Africa
+276,145,Jeremy Abbott,M,24.0,175.0,70.0,United States,USA,2010 Winter,2010,Winter,Vancouver,Figure Skating,Figure Skating Men's Singles,No Medal,USA
+277,145,Jeremy Abbott,M,28.0,175.0,70.0,United States,USA,2014 Winter,2014,Winter,Sochi,Figure Skating,Figure Skating Men's Singles,No Medal,USA
+278,145,Jeremy Abbott,M,28.0,175.0,70.0,United States,USA,2014 Winter,2014,Winter,Sochi,Figure Skating,Figure Skating Mixed Team,Bronze,USA
+279,146,Jeremy Abbott,M,19.0,179.0,71.0,Canada,CAN,1976 Summer,1976,Summer,Montreal,Canoeing,"Canoeing Men's Canadian Doubles, 1,000 metres",No Medal,Canada
+280,147,Joanne Abbott,F,41.0,160.0,57.0,Canada,CAN,1996 Summer,1996,Summer,Atlanta,Sailing,Sailing Mixed Three Person Keelboat,No Medal,Canada
+281,148,"Kathryn ""Katie"" Abbott",F,21.0,164.0,63.0,Canada,CAN,2008 Summer,2008,Summer,Beijing,Sailing,Sailing Women's Three Person Keelboat,No Medal,Canada
+282,149,Mara Katherine Abbott,F,30.0,163.0,52.0,United States,USA,2016 Summer,2016,Summer,Rio de Janeiro,Cycling,"Cycling Women's Road Race, Individual",No Medal,USA
+285,152,Matt Abbott,M,34.0,185.0,91.0,Canada,CAN,2000 Summer,2000,Summer,Sydney,Sailing,Sailing Mixed Three Person Keelboat,No Medal,Canada
+286,153,Monica Cecilia Abbott,F,23.0,191.0,88.0,United States,USA,2008 Summer,2008,Summer,Beijing,Softball,Softball Women's Softball,Silver,USA
+287,154,Khadija Abbouda,F,40.0,165.0,57.0,Morocco,MAR,2008 Summer,2008,Summer,Beijing,Archery,Archery Women's Individual,No Medal,Morocco
+288,155,Mohamed Ibrahim Abd El-Fatah Mohamed,M,22.0,185.0,98.0,Egypt,EGY,2000 Summer,2000,Summer,Sydney,Wrestling,"Wrestling Men's Light-Heavyweight, Greco-Roman",No Medal,Egypt
+289,155,Mohamed Ibrahim Abd El-Fatah Mohamed,M,26.0,185.0,98.0,Egypt,EGY,2004 Summer,2004,Summer,Athina,Wrestling,"Wrestling Men's Light-Heavyweight, Greco-Roman",No Medal,Egypt
+290,155,Mohamed Ibrahim Abd El-Fatah Mohamed,M,34.0,185.0,98.0,Egypt,EGY,2012 Summer,2012,Summer,London,Wrestling,"Wrestling Men's Heavyweight, Greco-Roman",No Medal,Egypt
+291,156,Mahmoud Abd El-Kader,M,23.0,195.0,94.0,Egypt,EGY,2008 Summer,2008,Summer,Beijing,Volleyball,Volleyball Men's Volleyball,No Medal,Egypt
+292,157,Mohamed Ibrahim Abd El-Salam,M,22.0,192.0,83.0,Egypt,EGY,2004 Summer,2004,Summer,Athina,Handball,Handball Men's Handball,No Medal,Egypt
+293,157,Mohamed Ibrahim Abd El-Salam,M,26.0,192.0,83.0,Egypt,EGY,2008 Summer,2008,Summer,Beijing,Handball,Handball Men's Handball,No Medal,Egypt
+295,159,Reem Wa'il Abdalazem Abdalazem El-Bossaty,F,15.0,167.0,60.0,Egypt,EGY,2008 Summer,2008,Summer,Beijing,Synchronized Swimming,Synchronized Swimming Women's Duet,No Medal,Egypt
+296,159,Reem Wa'il Abdalazem Abdalazem El-Bossaty,F,15.0,167.0,60.0,Egypt,EGY,2008 Summer,2008,Summer,Beijing,Synchronized Swimming,Synchronized Swimming Women's Team,No Medal,Egypt
+297,159,Reem Wa'il Abdalazem Abdalazem El-Bossaty,F,19.0,167.0,60.0,Egypt,EGY,2012 Summer,2012,Summer,London,Synchronized Swimming,Synchronized Swimming Women's Team,No Medal,Egypt
+298,160,Ali Abdalla Afringi,M,25.0,163.0,57.0,Eritrea,ERI,2008 Summer,2008,Summer,Beijing,Athletics,"Athletics Men's 5,000 metres",No Medal,Eritrea
+299,161,Hossam Abdalla,M,28.0,203.0,97.0,Egypt,EGY,2016 Summer,2016,Summer,Rio de Janeiro,Volleyball,Volleyball Men's Volleyball,No Medal,Egypt
+311,165,Nia Nicole Abdallah,F,20.0,175.0,56.0,United States,USA,2004 Summer,2004,Summer,Athina,Taekwondo,Taekwondo Women's Featherweight,Silver,USA
+312,166,Omari Abdallah,M,21.0,168.0,57.0,Tanzania,TAN,1964 Summer,1964,Summer,Tokyo,Athletics,Athletics Men's Marathon,No Medal,Tanzania
+313,166,Omari Abdallah,M,29.0,168.0,57.0,Tanzania,TAN,1972 Summer,1972,Summer,Munich,Athletics,Athletics Men's 4 x 400 metres Relay,No Medal,Tanzania
+315,168,Younis Abdallah Rabee,M,23.0,169.0,68.0,Kuwait,KUW,1972 Summer,1972,Summer,Munich,Athletics,Athletics Men's 100 metres,No Medal,Kuwait
+316,169,Raida Abdallah Bader,F,19.0,158.0,49.0,Jordan,JOR,1984 Summer,1984,Summer,Los Angeles,Athletics,"Athletics Women's 3,000 metres",No Medal,Jordan
+317,170,Maha Abdalsalam Gouda,F,18.0,172.0,61.0,Egypt,EGY,2016 Summer,2016,Summer,Rio de Janeiro,Diving,Diving Women's Platform,No Medal,Egypt
+318,171,Mahmoud Abdel Aziz,M,25.0,174.0,70.0,Egypt,EGY,2000 Summer,2000,Summer,Sydney,Volleyball,Volleyball Men's Volleyball,No Medal,Egypt
+319,172,Mohamed Abdel Ellah,M,32.0,168.0,68.0,Egypt,EGY,2000 Summer,2000,Summer,Sydney,Shooting,"Shooting Men's Air Rifle, 10 metres",No Medal,Egypt
+324,177,Mohamed Abdel Fattah,M,23.0,174.0,69.0,Egypt,EGY,2000 Summer,2000,Summer,Sydney,Cycling,"Cycling Men's Road Race, Individual",No Medal,Egypt
+325,178,Sayed Abdel Gadir,M,23.0,180.0,56.0,Sudan,SUD,1960 Summer,1960,Summer,Roma,Boxing,Boxing Men's Featherweight,No Medal,Sudan
+326,178,Sayed Abdel Gadir,M,32.0,180.0,56.0,Sudan,SUD,1968 Summer,1968,Summer,Mexico City,Boxing,Boxing Men's Lightweight,No Medal,Sudan
+329,180,Heba Abdel Gawad,F,18.0,154.0,48.0,Egypt,EGY,2000 Summer,2000,Summer,Sydney,Synchronized Swimming,Synchronized Swimming Women's Duet,No Medal,Egypt
+330,180,Heba Abdel Gawad,F,22.0,154.0,48.0,Egypt,EGY,2004 Summer,2004,Summer,Athina,Synchronized Swimming,Synchronized Swimming Women's Duet,No Medal,Egypt
+331,181,Sara Abdel Gawad,F,18.0,153.0,46.0,Egypt,EGY,2000 Summer,2000,Summer,Sydney,Synchronized Swimming,Synchronized Swimming Women's Duet,No Medal,Egypt
+334,184,Ragy Abdel Hady,M,30.0,186.0,100.0,Egypt,EGY,2004 Summer,2004,Summer,Athina,Water Polo,Water Polo Men's Water Polo,No Medal,Egypt
+341,187,Moustafa Ali Abdel Halim,M,32.0,152.0,52.0,Egypt,EGY,1976 Summer,1976,Summer,Montreal,Weightlifting,Weightlifting Men's Flyweight,No Medal,Egypt
+342,188,Mohamed Abdel Hamed,M,24.0,193.0,82.0,Egypt,EGY,1984 Summer,1984,Summer,Los Angeles,Volleyball,Volleyball Men's Volleyball,No Medal,Egypt
+346,192,Ahmed El-Sayed Abdel Hamid Mobarak,M,25.0,189.0,85.0,Egypt,EGY,1972 Summer,1972,Summer,Munich,Basketball,Basketball Men's Basketball,No Medal,Egypt
+356,196,Mohamed Abdel Khaled,M,24.0,183.0,76.0,Tunisia,TUN,1976 Summer,1976,Summer,Montreal,Handball,Handball Men's Handball,No Medal,Tunisia
+357,197,Abdel Latif Abdel Latif,M,28.0,172.0,68.0,Egypt,EGY,1988 Summer,1988,Summer,Seoul,Wrestling,"Wrestling Men's Lightweight, Greco-Roman",No Medal,Egypt
+359,199,Amir Abdel Meguid,M,23.0,178.0,67.0,Egypt,EGY,1984 Summer,1984,Summer,Los Angeles,Basketball,Basketball Men's Basketball,No Medal,Egypt
+360,199,Amir Abdel Meguid,M,27.0,178.0,67.0,Egypt,EGY,1988 Summer,1988,Summer,Seoul,Basketball,Basketball Men's Basketball,No Medal,Egypt
+362,201,Karim Abdel Mohsen,M,25.0,188.0,92.0,Egypt,EGY,2004 Summer,2004,Summer,Athina,Water Polo,Water Polo Men's Water Polo,No Medal,Egypt
+363,202,Awad Abdel Nabi Awad,M,19.0,198.0,80.0,Egypt,EGY,1972 Summer,1972,Summer,Munich,Basketball,Basketball Men's Basketball,No Medal,Egypt
+364,202,Awad Abdel Nabi Awad,M,23.0,198.0,80.0,Egypt,EGY,1976 Summer,1976,Summer,Montreal,Basketball,Basketball Men's Basketball,No Medal,Egypt
+365,203,Ahmed Abdel Naeim,M,23.0,197.0,87.0,Egypt,EGY,2008 Summer,2008,Summer,Beijing,Volleyball,Volleyball Men's Volleyball,No Medal,Egypt
+366,203,Ahmed Abdel Naeim,M,31.0,197.0,87.0,Egypt,EGY,2016 Summer,2016,Summer,Rio de Janeiro,Volleyball,Volleyball Men's Volleyball,No Medal,Egypt
+367,204,Moustafa Abdel Naser,M,21.0,176.0,74.0,Libya,LBA,1996 Summer,1996,Summer,Atlanta,Athletics,Athletics Men's 400 metres,No Medal,Libya
+380,210,Khaled Abdel Rahman,M,27.0,188.0,79.0,Egypt,EGY,1984 Summer,1984,Summer,Los Angeles,Volleyball,Volleyball Men's Volleyball,No Medal,Egypt
+384,212,Yasser Abdel Rahman Sakr,M,30.0,180.0,120.0,Egypt,EGY,2008 Summer,2008,Summer,Beijing,Wrestling,"Wrestling Men's Super-Heavyweight, Greco-Roman",No Medal,Egypt
+385,213,Samy Abdel Razek,M,28.0,170.0,60.0,Egypt,EGY,2008 Summer,2008,Summer,Beijing,Shooting,"Shooting Men's Free Pistol, 50 metres",No Medal,Egypt
+386,213,Samy Abdel Razek,M,36.0,170.0,60.0,Egypt,EGY,2016 Summer,2016,Summer,Rio de Janeiro,Shooting,"Shooting Men's Air Pistol, 10 metres",No Medal,Egypt
+387,213,Samy Abdel Razek,M,36.0,170.0,60.0,Egypt,EGY,2016 Summer,2016,Summer,Rio de Janeiro,Shooting,"Shooting Men's Free Pistol, 50 metres",No Medal,Egypt
+389,215,Ibrahim Ahmed Abdel Rehim,M,21.0,190.0,83.0,Egypt,EGY,2004 Summer,2004,Summer,Athina,Fencing,"Fencing Men's epee, Team",No Medal,Egypt
+390,216,Kamal Abdel Rehim,M,26.0,190.0,95.0,Egypt,EGY,2000 Summer,2000,Summer,Sydney,Rowing,Rowing Men's Coxless Fours,No Medal,Egypt
+391,217,Reskalla Mohamed Abdel Rehim,M,22.0,165.0,48.0,Egypt,EGY,2000 Summer,2000,Summer,Sydney,Boxing,Boxing Men's Light-Flyweight,No Medal,Egypt
+392,218,Ahmed Ali Abdel Samad,M,27.0,195.0,95.0,Egypt,EGY,2000 Summer,2000,Summer,Sydney,Boxing,Boxing Men's Super-Heavyweight,No Medal,Egypt
+396,222,Mohamed Said Abdel Wehab,M,22.0,157.0,48.0,Egypt,EGY,1976 Summer,1976,Summer,Montreal,Boxing,Boxing Men's Light-Flyweight,No Medal,Egypt
+406,225,Shaimaa Abdel-Latif-Hashad,F,23.0,165.0,57.0,Egypt,EGY,2004 Summer,2004,Summer,Athina,Shooting,"Shooting Women's Air Rifle, 10 metres",No Medal,Egypt
+407,225,Shaimaa Abdel-Latif-Hashad,F,27.0,165.0,57.0,Egypt,EGY,2008 Summer,2008,Summer,Beijing,Shooting,"Shooting Women's Air Rifle, 10 metres",No Medal,Egypt
+408,225,Shaimaa Abdel-Latif-Hashad,F,35.0,165.0,57.0,Egypt,EGY,2016 Summer,2016,Summer,Rio de Janeiro,Shooting,"Shooting Women's Air Rifle, 10 metres",No Medal,Egypt
+410,227,Ahmed Abdelaal,M,27.0,188.0,89.0,Egypt,EGY,2016 Summer,2016,Summer,Rio de Janeiro,Volleyball,Volleyball Men's Volleyball,No Medal,Egypt
+411,228,Mahmoud Abdelaal,M,24.0,176.0,60.0,Egypt,EGY,2016 Summer,2016,Summer,Rio de Janeiro,Boxing,Boxing Men's Lightweight,No Medal,Egypt
+412,229,Mohamed Ali Abdelaal,M,26.0,175.0,81.0,Egypt,EGY,2016 Summer,2016,Summer,Rio de Janeiro,Judo,Judo Men's Half-Middleweight,No Medal,Egypt
+422,232,Ibrahim Ramadan Ibrahim Abdelbaki,M,24.0,173.0,77.0,Egypt,EGY,2012 Summer,2012,Summer,London,Weightlifting,Weightlifting Men's Middleweight,No Medal,Egypt
+423,232,Ibrahim Ramadan Ibrahim Abdelbaki,M,28.0,173.0,77.0,Egypt,EGY,2016 Summer,2016,Summer,Rio de Janeiro,Weightlifting,Weightlifting Men's Middleweight,No Medal,Egypt
+424,233,Aziza Abdelfattah,F,17.0,159.0,51.0,Egypt,EGY,2008 Summer,2008,Summer,Beijing,Synchronized Swimming,Synchronized Swimming Women's Team,No Medal,Egypt
+425,234,Abdalla Abdelgadir El-Sheikh,M,21.0,170.0,58.0,Sudan,SUD,2008 Summer,2008,Summer,Beijing,Athletics,"Athletics Men's 1,500 metres",No Medal,Sudan
+427,236,Ragab Abdelhay Saad Abdelrazek Abdallah,M,21.0,170.0,94.0,Egypt,EGY,2012 Summer,2012,Summer,London,Weightlifting,Weightlifting Men's Light-Heavyweight,No Medal,Egypt
+428,236,Ragab Abdelhay Saad Abdelrazek Abdallah,M,25.0,170.0,94.0,Egypt,EGY,2016 Summer,2016,Summer,Rio de Janeiro,Weightlifting,Weightlifting Men's Middle-Heavyweight,No Medal,Egypt
+430,238,Mohamed Abdellah,M,36.0,170.0,70.0,Egypt,EGY,2004 Summer,2004,Summer,Athina,Shooting,"Shooting Men's Air Rifle, 10 metres",No Medal,Egypt
+431,238,Mohamed Abdellah,M,40.0,170.0,70.0,Egypt,EGY,2008 Summer,2008,Summer,Beijing,Shooting,"Shooting Men's Air Rifle, 10 metres",No Medal,Egypt
+432,239,Ayoub Abdellaoui,M,23.0,184.0,68.0,Algeria,ALG,2016 Summer,2016,Summer,Rio de Janeiro,Football,Football Men's Football,No Medal,Algeria
+433,240,Leila Abdelmoez,F,19.0,160.0,46.0,Egypt,EGY,2016 Summer,2016,Summer,Rio de Janeiro,Synchronized Swimming,Synchronized Swimming Women's Team,No Medal,Egypt
+434,241,Sayed Abdelmonem Sayed Hamed,M,23.0,170.0,60.0,Egypt,EGY,2012 Summer,2012,Summer,London,Wrestling,"Wrestling Men's Lightweight, Greco-Roman",No Medal,Egypt
+435,242,Ahmed Abdelrahman,M,20.0,165.0,60.0,Egypt,EGY,2016 Summer,2016,Summer,Rio de Janeiro,Judo,Judo Men's Extra-Lightweight,No Medal,Egypt
+436,243,Ihab Abdelrahman El-Sayed Abdelrahman,M,23.0,194.0,96.0,Egypt,EGY,2012 Summer,2012,Summer,London,Athletics,Athletics Men's Javelin Throw,No Medal,Egypt
+437,244,Raouf Abdelraouf,M,22.0,167.0,63.0,Egypt,EGY,2000 Summer,2000,Summer,Sydney,Gymnastics,Gymnastics Men's Individual All-Around,No Medal,Egypt
+438,244,Raouf Abdelraouf,M,22.0,167.0,63.0,Egypt,EGY,2000 Summer,2000,Summer,Sydney,Gymnastics,Gymnastics Men's Horse Vault,No Medal,Egypt
+439,244,Raouf Abdelraouf,M,22.0,167.0,63.0,Egypt,EGY,2000 Summer,2000,Summer,Sydney,Gymnastics,Gymnastics Men's Parallel Bars,No Medal,Egypt
+440,244,Raouf Abdelraouf,M,22.0,167.0,63.0,Egypt,EGY,2000 Summer,2000,Summer,Sydney,Gymnastics,Gymnastics Men's Rings,No Medal,Egypt
+441,244,Raouf Abdelraouf,M,22.0,167.0,63.0,Egypt,EGY,2000 Summer,2000,Summer,Sydney,Gymnastics,Gymnastics Men's Pommelled Horse,No Medal,Egypt
+443,246,Mamdouh Abdelrehim,M,26.0,207.0,90.0,Egypt,EGY,2016 Summer,2016,Summer,Rio de Janeiro,Volleyball,Volleyball Men's Volleyball,No Medal,Egypt
+444,247,El-Hachemi Abdenouz,M,24.0,170.0,63.0,Algeria,ALG,1980 Summer,1980,Summer,Moskva,Athletics,"Athletics Men's 5,000 metres",No Medal,Algeria
+445,248,Rda Abdenouz,M,19.0,170.0,63.0,Algeria,ALG,1988 Summer,1988,Summer,Seoul,Athletics,Athletics Men's 800 metres,No Medal,Algeria
+446,248,Rda Abdenouz,M,23.0,170.0,63.0,Algeria,ALG,1992 Summer,1992,Summer,Barcelona,Athletics,Athletics Men's 800 metres,No Medal,Algeria
+447,249,Mouni Abderrahim,F,22.0,173.0,60.0,Algeria,ALG,2008 Summer,2008,Summer,Beijing,Volleyball,Volleyball Women's Volleyball,No Medal,Algeria
+448,249,Mouni Abderrahim,F,26.0,173.0,60.0,Algeria,ALG,2012 Summer,2012,Summer,London,Volleyball,Volleyball Women's Volleyball,No Medal,Algeria
+449,250,Saeid Morad Abdevali,M,22.0,170.0,80.0,Iran,IRI,2012 Summer,2012,Summer,London,Wrestling,"Wrestling Men's Welterweight, Greco-Roman",No Medal,Iran
+450,250,Saeid Morad Abdevali,M,26.0,170.0,80.0,Iran,IRI,2016 Summer,2016,Summer,Rio de Janeiro,Wrestling,"Wrestling Men's Middleweight, Greco-Roman",Bronze,Iran
+451,251,Bashir Abdi,M,27.0,176.0,56.0,Belgium,BEL,2016 Summer,2016,Summer,Rio de Janeiro,Athletics,"Athletics Men's 5,000 metres",No Medal,Belgium
+452,251,Bashir Abdi,M,27.0,176.0,56.0,Belgium,BEL,2016 Summer,2016,Summer,Rio de Janeiro,Athletics,"Athletics Men's 10,000 metres",No Medal,Belgium
+453,252,Youcef Abdi,M,30.0,178.0,66.0,Australia,AUS,2008 Summer,2008,Summer,Beijing,Athletics,"Athletics Men's 3,000 metres Steeplechase",No Medal,Australia
+454,252,Youcef Abdi,M,34.0,178.0,66.0,Australia,AUS,2012 Summer,2012,Summer,London,Athletics,"Athletics Men's 3,000 metres Steeplechase",No Medal,Australia
+455,253,Jamal Abdi Hassan Abdullah,M,19.0,177.0,65.0,Qatar,QAT,1992 Summer,1992,Summer,Barcelona,Athletics,"Athletics Men's 3,000 metres Steeplechase",No Medal,Qatar
+456,253,Jamal Abdi Hassan Abdullah,M,23.0,177.0,65.0,Qatar,QAT,1996 Summer,1996,Summer,Atlanta,Athletics,"Athletics Men's 3,000 metres Steeplechase",No Medal,Qatar
+457,254,Talal Omar Abdillahi,M,21.0,170.0,57.0,Djibouti,DJI,1988 Summer,1988,Summer,Seoul,Athletics,"Athletics Men's 10,000 metres",No Medal,Djibouti
+458,254,Talal Omar Abdillahi,M,25.0,170.0,57.0,Djibouti,DJI,1992 Summer,1992,Summer,Barcelona,Athletics,Athletics Men's Marathon,No Medal,Djibouti
+466,256,"Abdihakim ""Abdi"" Abdirahman",M,23.0,178.0,61.0,United States,USA,2000 Summer,2000,Summer,Sydney,Athletics,"Athletics Men's 10,000 metres",No Medal,USA
+467,256,"Abdihakim ""Abdi"" Abdirahman",M,27.0,178.0,61.0,United States,USA,2004 Summer,2004,Summer,Athina,Athletics,"Athletics Men's 10,000 metres",No Medal,USA
+468,256,"Abdihakim ""Abdi"" Abdirahman",M,31.0,178.0,61.0,United States,USA,2008 Summer,2008,Summer,Beijing,Athletics,"Athletics Men's 10,000 metres",No Medal,USA
+469,256,"Abdihakim ""Abdi"" Abdirahman",M,35.0,178.0,61.0,United States,USA,2012 Summer,2012,Summer,London,Athletics,Athletics Men's Marathon,No Medal,USA
+470,257,Ali Abdo,M,19.0,169.0,74.0,Australia,AUS,2000 Summer,2000,Summer,Sydney,Wrestling,"Wrestling Men's Welterweight, Greco-Roman",No Medal,Australia
+471,257,Ali Abdo,M,23.0,169.0,74.0,Australia,AUS,2004 Summer,2004,Summer,Athina,Wrestling,"Wrestling Men's Middleweight, Freestyle",No Medal,Australia
+472,257,Ali Abdo,M,27.0,169.0,74.0,Australia,AUS,2008 Summer,2008,Summer,Beijing,Wrestling,"Wrestling Men's Middleweight, Freestyle",No Medal,Australia
+474,259,Reema Abdo,F,21.0,173.0,59.0,Canada,CAN,1984 Summer,1984,Summer,Los Angeles,Swimming,Swimming Women's 100 metres Backstroke,No Medal,Canada
+475,259,Reema Abdo,F,21.0,173.0,59.0,Canada,CAN,1984 Summer,1984,Summer,Los Angeles,Swimming,Swimming Women's 200 metres Backstroke,No Medal,Canada
+476,259,Reema Abdo,F,21.0,173.0,59.0,Canada,CAN,1984 Summer,1984,Summer,Los Angeles,Swimming,Swimming Women's 4 x 100 metres Medley Relay,Bronze,Canada
+478,261,Nasrollah Abdollahi,M,24.0,183.0,75.0,Iran,IRI,1976 Summer,1976,Summer,Montreal,Football,Football Men's Football,No Medal,Iran
+479,262,Yhyacinthe Mewoli Abdon,M,26.0,176.0,60.0,Cameroon,CMR,2012 Summer,2012,Summer,London,Boxing,Boxing Men's Lightweight,No Medal,Cameroon
+480,263,Hassane Abdou,M,23.0,185.0,67.0,Comoros,COM,1996 Summer,1996,Summer,Atlanta,Athletics,Athletics Men's 400 metres,No Medal,Comoros
+481,264,Justin Abdou,M,29.0,175.0,85.0,Canada,CAN,2000 Summer,2000,Summer,Sydney,Wrestling,"Wrestling Men's Light-Heavyweight, Freestyle",No Medal,Canada
+483,266,Raouf Abdou,M,22.0,165.0,60.0,Egypt,EGY,2004 Summer,2004,Summer,Athina,Modern Pentathlon,Modern Pentathlon Men's Individual,No Medal,Egypt
+484,267,Mohamed Abdou El-Souad,M,19.0,180.0,76.0,Egypt,EGY,1988 Summer,1988,Summer,Seoul,Modern Pentathlon,Modern Pentathlon Men's Individual,No Medal,Egypt
+485,267,Mohamed Abdou El-Souad,M,19.0,180.0,76.0,Egypt,EGY,1988 Summer,1988,Summer,Seoul,Modern Pentathlon,Modern Pentathlon Men's Team,No Medal,Egypt
+486,267,Mohamed Abdou El-Souad,M,23.0,180.0,76.0,Egypt,EGY,1992 Summer,1992,Summer,Barcelona,Modern Pentathlon,Modern Pentathlon Men's Individual,No Medal,Egypt
+487,267,Mohamed Abdou El-Souad,M,23.0,180.0,76.0,Egypt,EGY,1992 Summer,1992,Summer,Barcelona,Modern Pentathlon,Modern Pentathlon Men's Team,No Medal,Egypt
+489,269,Fawziya Abdoulkarim,F,27.0,180.0,67.0,Cameroon,CMR,2016 Summer,2016,Summer,Rio de Janeiro,Volleyball,Volleyball Women's Volleyball,No Medal,Cameroon
+490,270,Alaa El-Din Abdoun,M,23.0,188.0,78.0,Egypt,EGY,1988 Summer,1988,Summer,Seoul,Basketball,Basketball Men's Basketball,No Medal,Egypt
+492,272,Berik Abdrakhmanov,M,30.0,165.0,60.0,Kazakhstan,KAZ,2016 Summer,2016,Summer,Rio de Janeiro,Boxing,Boxing Men's Lightweight,No Medal,Kazakhstan
+493,273,Maizurah Abdul Rahim,F,17.0,147.0,50.0,Brunei,BRU,2016 Summer,2016,Summer,Rio de Janeiro,Athletics,Athletics Women's 200 metres,No Medal,Brunei
+494,274,Mehdi Fahim Abdul Al-Sada,M,24.0,184.0,70.0,Iraq,IRQ,1980 Summer,1980,Summer,Moskva,Athletics,Athletics Men's 4 x 400 metres Relay,No Medal,Iraq
+495,275,Bashir Abdullah Abdul Aziz,M,22.0,180.0,73.0,Kuwait,KUW,2000 Summer,2000,Summer,Sydney,Football,Football Men's Football,No Medal,Kuwait
+496,276,Chairil Anwar Abdul Aziz,M,24.0,163.0,61.0,Malaysia,MAS,1996 Summer,1996,Summer,Atlanta,Hockey,Hockey Men's Hockey,No Medal,Malaysia
+497,276,Chairil Anwar Abdul Aziz,M,28.0,163.0,61.0,Malaysia,MAS,2000 Summer,2000,Summer,Sydney,Hockey,Hockey Men's Hockey,No Medal,Malaysia
+498,277,Shaimaa Abdul Aziz,F,19.0,160.0,53.0,Egypt,EGY,2000 Summer,2000,Summer,Sydney,Table Tennis,Table Tennis Women's Singles,No Medal,Egypt
+499,277,Shaimaa Abdul Aziz,F,19.0,160.0,53.0,Egypt,EGY,2000 Summer,2000,Summer,Sydney,Table Tennis,Table Tennis Women's Doubles,No Medal,Egypt
+500,277,Shaimaa Abdul Aziz,F,27.0,160.0,53.0,Egypt,EGY,2008 Summer,2008,Summer,Beijing,Table Tennis,Table Tennis Women's Singles,No Medal,Egypt
+502,279,Jefri Kiko Bolkiah Abdul Hakeem,M,23.0,172.0,90.0,Brunei,BRU,1996 Summer,1996,Summer,Atlanta,Shooting,Shooting Men's Skeet,No Medal,Brunei
+503,279,Jefri Kiko Bolkiah Abdul Hakeem,M,27.0,172.0,90.0,Brunei,BRU,2000 Summer,2000,Summer,Sydney,Shooting,Shooting Men's Skeet,No Medal,Brunei
+504,280,Mohamed Abdul Hamid,M,19.0,175.0,55.0,Sudan,SUD,2000 Summer,2000,Summer,Sydney,Swimming,Swimming Men's 50 metres Freestyle,No Medal,Sudan
+507,282,Hadi Abdul Jabbar,M,30.0,180.0,117.5,Iraq,IRQ,1960 Summer,1960,Summer,Roma,Weightlifting,Weightlifting Men's Heavyweight,No Medal,Iraq
+508,282,Hadi Abdul Jabbar,M,34.0,180.0,117.5,Iraq,IRQ,1964 Summer,1964,Summer,Tokyo,Weightlifting,Weightlifting Men's Heavyweight,No Medal,Iraq
+509,283,Mohamed Abed Abdul Jawad,M,22.0,169.0,65.0,Saudi Arabia,KSA,1984 Summer,1984,Summer,Los Angeles,Football,Football Men's Football,No Medal,Saudi Arabia
+512,286,Abdul Aziz Hassan Al-Hadba Abdul Karim Abdul Kareem,M,23.0,169.0,60.0,Kuwait,KUW,1976 Summer,1976,Summer,Montreal,Athletics,Athletics Men's 200 metres,No Medal,Kuwait
+513,286,Abdul Aziz Hassan Al-Hadba Abdul Karim Abdul Kareem,M,23.0,169.0,60.0,Kuwait,KUW,1976 Summer,1976,Summer,Montreal,Athletics,Athletics Men's 4 x 100 metres Relay,No Medal,Kuwait
+514,287,Taha Abdul Karim,M,20.0,156.0,59.0,Iraq,IRQ,1960 Summer,1960,Summer,Roma,Boxing,Boxing Men's Lightweight,No Medal,Iraq
+515,288,Masoud Abdul Khamis Al-Rahman,M,17.0,176.0,68.0,Qatar,QAT,1992 Summer,1992,Summer,Barcelona,Athletics,Athletics Men's 4 x 400 metres Relay,No Medal,Qatar
+516,289,Abdul Haji Abdul Latheef,M,17.0,168.0,54.0,Maldives,MDV,1988 Summer,1988,Summer,Seoul,Athletics,Athletics Men's Marathon,No Medal,Maldives
+518,291,Majed Ahmed Abdul Mohamed,M,26.0,172.0,70.0,Saudi Arabia,KSA,1984 Summer,1984,Summer,Los Angeles,Football,Football Men's Football,No Medal,Saudi Arabia
+519,292,Firouz Abdul Mohammadian,M,34.0,178.0,74.0,Iran,IRI,1976 Summer,1976,Summer,Montreal,Water Polo,Water Polo Men's Water Polo,No Medal,Iran
+520,293,Hussam Abdul Rahman,M,30.0,175.0,80.0,Jordan,JOR,1984 Summer,1984,Summer,Los Angeles,Shooting,"Shooting Men's Small-Bore Rifle, Three Positions, 50 metres",No Medal,Jordan
+522,295,Suleman Abdul Rahman,M,29.0,174.0,55.0,Ethiopia,ETH,1972 Summer,1972,Summer,Munich,Cycling,"Cycling Men's Road Race, Individual",No Medal,Ethiopia
+523,296,Zambrose Abdul Rahman,M,24.0,173.0,64.0,Malaysia,MAS,1968 Summer,1968,Summer,Mexico City,Athletics,Athletics Men's 400 metres Hurdles,No Medal,Malaysia
+524,297,Lala Abdul Rashid,M,38.0,169.0,91.0,Pakistan,PAK,1960 Summer,1960,Summer,Roma,Hockey,Hockey Men's Hockey,Gold,Pakistan
+525,298,Muhammad Abdul Rashid,M,23.0,181.0,72.0,Pakistan,PAK,1964 Summer,1964,Summer,Tokyo,Hockey,Hockey Men's Hockey,Silver,Pakistan
+526,299,Dana Abdul Razak (Hussain-),F,22.0,163.0,56.0,Iraq,IRQ,2008 Summer,2008,Summer,Beijing,Athletics,Athletics Women's 100 metres,No Medal,Iraq
+527,299,Dana Abdul Razak (Hussain-),F,26.0,163.0,56.0,Iraq,IRQ,2012 Summer,2012,Summer,London,Athletics,Athletics Women's 100 metres,No Medal,Iraq
+535,305,Samir Ahmed Abdul Shakour,M,24.0,180.0,72.0,Saudi Arabia,KSA,1984 Summer,1984,Summer,Los Angeles,Football,Football Men's Football,No Medal,Saudi Arabia
+541,310,Patmawati Abdul Wahid,F,32.0,158.0,58.0,Indonesia,INA,2004 Summer,2004,Summer,Athina,Weightlifting,Weightlifting Women's Lightweight,No Medal,Indonesia
+542,311,Haidar Abdul-Amir Hassan,M,21.0,185.0,80.0,Iraq,IRQ,2004 Summer,2004,Summer,Athina,Football,Football Men's Football,No Medal,Iraq
+543,312,Haidar Abdul-Razzaq Hassan,M,22.0,175.0,75.0,Iraq,IRQ,2004 Summer,2004,Summer,Athina,Football,Football Men's Football,No Medal,Iraq
+544,313,"Lawal Kolawole ""Kola"" Abdulai",M,21.0,172.0,66.0,Nigeria,NGR,1968 Summer,1968,Summer,Mexico City,Athletics,Athletics Men's 100 metres,No Medal,Nigeria
+545,313,"Lawal Kolawole ""Kola"" Abdulai",M,21.0,172.0,66.0,Nigeria,NGR,1968 Summer,1968,Summer,Mexico City,Athletics,Athletics Men's 4 x 100 metres Relay,No Medal,Nigeria
+546,313,"Lawal Kolawole ""Kola"" Abdulai",M,25.0,172.0,66.0,Nigeria,NGR,1972 Summer,1972,Summer,Munich,Athletics,Athletics Men's 100 metres,No Medal,Nigeria
+547,313,"Lawal Kolawole ""Kola"" Abdulai",M,25.0,172.0,66.0,Nigeria,NGR,1972 Summer,1972,Summer,Munich,Athletics,Athletics Men's 4 x 100 metres Relay,No Medal,Nigeria
+548,314,"Rukayatu ""Ruky"" Abdulai",F,22.0,180.0,59.0,Canada,CAN,2008 Summer,2008,Summer,Beijing,Athletics,Athletics Women's Long Jump,No Medal,Canada
+549,315,Mona Ahmad Abdulaziz Hassanein,F,26.0,166.0,61.0,Egypt,EGY,2012 Summer,2012,Summer,London,Fencing,"Fencing Women's epee, Individual",No Medal,Egypt
+550,316,Zagalav Abdulbekovich Abdulbekov,M,26.0,160.0,62.0,Soviet Union,URS,1972 Summer,1972,Summer,Munich,Wrestling,"Wrestling Men's Featherweight, Freestyle",Gold,Russia
+551,317,Roosevelt M. Abdulgafur,M,24.0,181.0,73.0,Philippines,PHI,1968 Summer,1968,Summer,Mexico City,Swimming,Swimming Men's 100 metres Freestyle,No Medal,Philippines
+552,317,Roosevelt M. Abdulgafur,M,24.0,181.0,73.0,Philippines,PHI,1968 Summer,1968,Summer,Mexico City,Swimming,Swimming Men's 200 metres Freestyle,No Medal,Philippines
+553,317,Roosevelt M. Abdulgafur,M,24.0,181.0,73.0,Philippines,PHI,1968 Summer,1968,Summer,Mexico City,Swimming,Swimming Men's 4 x 100 metres Freestyle Relay,No Medal,Philippines
+554,317,Roosevelt M. Abdulgafur,M,24.0,181.0,73.0,Philippines,PHI,1968 Summer,1968,Summer,Mexico City,Swimming,Swimming Men's 4 x 200 metres Freestyle Relay,No Medal,Philippines
+555,317,Roosevelt M. Abdulgafur,M,24.0,181.0,73.0,Philippines,PHI,1968 Summer,1968,Summer,Mexico City,Swimming,Swimming Men's 4 x 100 metres Medley Relay,No Medal,Philippines
+559,321,Ahmad Hassan Abdullah,M,27.0,164.0,55.0,Qatar,QAT,2008 Summer,2008,Summer,Beijing,Athletics,"Athletics Men's 10,000 metres",No Medal,Qatar
+560,322,Ahmed Ghanim Abdullah,M,20.0,184.0,79.0,Egypt,EGY,1988 Summer,1988,Summer,Seoul,Swimming,Swimming Men's 200 metres Butterfly,No Medal,Egypt
+561,323,Aquil Hashim Abdullah (Shumate-),M,31.0,187.0,83.0,United States,USA,2004 Summer,2004,Summer,Athina,Rowing,Rowing Men's Double Sculls,No Medal,USA
+574,331,Wan Azlan Abdullah,M,21.0,188.0,77.0,Malaysia,MAS,1996 Summer,1996,Summer,Atlanta,Swimming,Swimming Men's 200 metres Individual Medley,No Medal,Malaysia
+575,331,Wan Azlan Abdullah,M,21.0,188.0,77.0,Malaysia,MAS,1996 Summer,1996,Summer,Atlanta,Swimming,Swimming Men's 400 metres Individual Medley,No Medal,Malaysia
+576,331,Wan Azlan Abdullah,M,21.0,188.0,77.0,Malaysia,MAS,1996 Summer,1996,Summer,Atlanta,Swimming,Swimming Men's 4 x 100 metres Medley Relay,No Medal,Malaysia
+577,331,Wan Azlan Abdullah,M,25.0,188.0,77.0,Malaysia,MAS,2000 Summer,2000,Summer,Sydney,Swimming,Swimming Men's 400 metres Individual Medley,No Medal,Malaysia
+583,335,Abdulqdir Abdullayev,M,28.0,188.0,91.0,Azerbaijan,AZE,2016 Summer,2016,Summer,Rio de Janeiro,Boxing,Boxing Men's Heavyweight,No Medal,Azerbaijan
+584,336,Arif Yadulla Abdullayev,M,27.0,164.0,60.0,Azerbaijan,AZE,1996 Summer,1996,Summer,Atlanta,Wrestling,"Wrestling Men's Bantamweight, Freestyle",No Medal,Azerbaijan
+585,336,Arif Yadulla Abdullayev,M,32.0,164.0,60.0,Azerbaijan,AZE,2000 Summer,2000,Summer,Sydney,Wrestling,"Wrestling Men's Featherweight, Freestyle",No Medal,Azerbaijan
+586,337,Mukhammad Kadyr Abdullayev,M,22.0,169.0,63.0,Uzbekistan,UZB,1996 Summer,1996,Summer,Atlanta,Boxing,Boxing Men's Lightweight,No Medal,Uzbekistan
+587,337,Mukhammad Kadyr Abdullayev,M,26.0,169.0,63.0,Uzbekistan,UZB,2000 Summer,2000,Summer,Sydney,Boxing,Boxing Men's Light-Welterweight,Gold,Uzbekistan
+588,338,Muminzhon Abdullayev,M,22.0,190.0,130.0,Uzbekistan,UZB,2012 Summer,2012,Summer,London,Wrestling,"Wrestling Men's Super-Heavyweight, Greco-Roman",No Medal,Uzbekistan
+589,338,Muminzhon Abdullayev,M,26.0,190.0,130.0,Uzbekistan,UZB,2016 Summer,2016,Summer,Rio de Janeiro,Wrestling,"Wrestling Men's Super-Heavyweight, Greco-Roman",No Medal,Uzbekistan
+590,339,Namiq Yadulla Abdullayev,M,25.0,167.0,55.0,Azerbaijan,AZE,1996 Summer,1996,Summer,Atlanta,Wrestling,"Wrestling Men's Flyweight, Freestyle",Silver,Azerbaijan
+591,339,Namiq Yadulla Abdullayev,M,29.0,167.0,55.0,Azerbaijan,AZE,2000 Summer,2000,Summer,Sydney,Wrestling,"Wrestling Men's Bantamweight, Freestyle",Gold,Azerbaijan
+592,339,Namiq Yadulla Abdullayev,M,33.0,167.0,55.0,Azerbaijan,AZE,2004 Summer,2004,Summer,Athina,Wrestling,"Wrestling Men's Featherweight, Freestyle",No Medal,Azerbaijan
+593,340,Laye Abdullayeva,F,21.0,170.0,47.0,Azerbaijan,AZE,2012 Summer,2012,Summer,London,Athletics,"Athletics Women's 5,000 metres",No Medal,Azerbaijan
+594,341,lqar Abdulov,M,27.0,175.0,74.0,Azerbaijan,AZE,2008 Summer,2008,Summer,Beijing,Wrestling,"Wrestling Men's Middleweight, Greco-Roman",No Medal,Azerbaijan
+596,343,Abir Abdulrahman Khalil Mahmoud Khalil,F,16.0,162.0,72.0,Egypt,EGY,2008 Summer,2008,Summer,Beijing,Weightlifting,Weightlifting Women's Light-Heavyweight,No Medal,Egypt
+597,343,Abir Abdulrahman Khalil Mahmoud Khalil,F,20.0,162.0,72.0,Egypt,EGY,2012 Summer,2012,Summer,London,Weightlifting,Weightlifting Women's Heavyweight,No Medal,Egypt
+598,344,Amer Abdulrahman Abdallah Hussain Al-Hammadi,M,23.0,168.0,68.0,United Arab Emirates,UAE,2012 Summer,2012,Summer,London,Football,Football Men's Football,No Medal,United Arab Emirates
+599,345,Omar Abdulrahman Ahmad Al-Raaqi Al-Amoudi,M,20.0,168.0,62.0,United Arab Emirates,UAE,2012 Summer,2012,Summer,London,Football,Football Men's Football,No Medal,United Arab Emirates
+600,346,Shaza Yahia Nazih Abdulrahman El-Sayed,F,15.0,170.0,59.0,Egypt,EGY,2008 Summer,2008,Summer,Beijing,Synchronized Swimming,Synchronized Swimming Women's Team,No Medal,Egypt
+601,346,Shaza Yahia Nazih Abdulrahman El-Sayed,F,19.0,170.0,59.0,Egypt,EGY,2012 Summer,2012,Summer,London,Synchronized Swimming,Synchronized Swimming Women's Duet,No Medal,Egypt
+602,346,Shaza Yahia Nazih Abdulrahman El-Sayed,F,19.0,170.0,59.0,Egypt,EGY,2012 Summer,2012,Summer,London,Synchronized Swimming,Synchronized Swimming Women's Team,No Medal,Egypt
+603,347,Najim Abdulrazak Al-Enazy,M,18.0,150.0,60.0,Kuwait,KUW,1980 Summer,1980,Summer,Moskva,Athletics,Athletics Men's Discus Throw,No Medal,Kuwait
+604,348,Zeyad Abdulrazak Al-Khudhur Al-Enazy,M,19.0,181.0,66.0,Kuwait,KUW,1988 Summer,1988,Summer,Seoul,Athletics,Athletics Men's 110 metres Hurdles,No Medal,Kuwait
+605,348,Zeyad Abdulrazak Al-Khudhur Al-Enazy,M,23.0,181.0,66.0,Kuwait,KUW,1992 Summer,1992,Summer,Barcelona,Athletics,Athletics Men's 110 metres Hurdles,No Medal,Kuwait
+606,349,Waheed Abdulridha Waheed Karaawi,M,33.0,178.0,74.0,Iraq,IRQ,2016 Summer,2016,Summer,Rio de Janeiro,Boxing,Boxing Men's Middleweight,No Medal,Iraq
+607,350,Mohamed Abdultwab Ibrahim Abd El-Baki,M,21.0,162.0,69.0,Egypt,EGY,2008 Summer,2008,Summer,Beijing,Weightlifting,Weightlifting Men's Featherweight,No Medal,Egypt
+608,350,Mohamed Abdultwab Ibrahim Abd El-Baki,M,25.0,162.0,69.0,Egypt,EGY,2012 Summer,2012,Summer,London,Weightlifting,Weightlifting Men's Lightweight,No Medal,Egypt
+609,351,Julius Shareef Abdur-Rahim,M,23.0,202.0,104.0,United States,USA,2000 Summer,2000,Summer,Sydney,Basketball,Basketball Men's Basketball,Gold,USA
+610,352,Sherzod Abdurahmonov,M,22.0,178.0,73.0,Uzbekistan,UZB,2004 Summer,2004,Summer,Athina,Boxing,Boxing Men's Middleweight,No Medal,Uzbekistan
+611,353,Rasul Abduraim,M,19.0,183.0,74.0,Kyrgyzstan,KGZ,2008 Summer,2008,Summer,Beijing,Taekwondo,Taekwondo Men's Featherweight,No Medal,Kyrgyzstan
+612,353,Rasul Abduraim,M,23.0,183.0,74.0,Kyrgyzstan,KGZ,2012 Summer,2012,Summer,London,Taekwondo,Taekwondo Men's Welterweight,No Medal,Kyrgyzstan
+613,354,Bekzod Makhamadzhonovich Abdurakhmonov,M,26.0,172.0,74.0,Uzbekistan,UZB,2016 Summer,2016,Summer,Rio de Janeiro,Wrestling,"Wrestling Men's Middleweight, Freestyle",No Medal,Uzbekistan
+614,355,Mukhamadmurod Abdurakhmonov,M,29.0,192.0,117.0,Tajikistan,TJK,2016 Summer,2016,Summer,Rio de Janeiro,Judo,Judo Men's Heavyweight,No Medal,Tajikistan
+615,356,Adlan Aliyevich Abdurashidov,M,26.0,172.0,60.0,Russia,RUS,2016 Summer,2016,Summer,Rio de Janeiro,Boxing,Boxing Men's Lightweight,No Medal,Russia
+616,357,Yusup Abdusalomov,M,26.0,170.0,84.0,Tajikistan,TJK,2004 Summer,2004,Summer,Athina,Wrestling,"Wrestling Men's Middleweight, Freestyle",No Medal,Tajikistan
+617,357,Yusup Abdusalomov,M,30.0,170.0,84.0,Tajikistan,TJK,2008 Summer,2008,Summer,Beijing,Wrestling,"Wrestling Men's Light-Heavyweight, Freestyle",Silver,Tajikistan
+618,357,Yusup Abdusalomov,M,34.0,170.0,84.0,Tajikistan,TJK,2012 Summer,2012,Summer,London,Wrestling,"Wrestling Men's Light-Heavyweight, Freestyle",No Medal,Tajikistan
+620,359,Andrey Khakimovich Abduvaliyev,M,26.0,190.0,125.0,Unified Team,EUN,1992 Summer,1992,Summer,Barcelona,Athletics,Athletics Men's Hammer Throw,Gold,Russia
+621,359,Andrey Khakimovich Abduvaliyev,M,34.0,190.0,125.0,Uzbekistan,UZB,2000 Summer,2000,Summer,Sydney,Athletics,Athletics Men's Hammer Throw,No Medal,Uzbekistan
+622,360,Dzhamolidin Mirgarifanovich Abduzhaparov,M,24.0,174.0,72.0,Soviet Union,URS,1988 Summer,1988,Summer,Seoul,Cycling,"Cycling Men's Road Race, Individual",No Medal,Russia
+623,360,Dzhamolidin Mirgarifanovich Abduzhaparov,M,32.0,174.0,72.0,Uzbekistan,UZB,1996 Summer,1996,Summer,Atlanta,Cycling,"Cycling Men's Road Race, Individual",No Medal,Uzbekistan
+624,361,Aybek Abdymomunov,M,18.0,162.0,54.0,Kyrgyzstan,KGZ,2004 Summer,2004,Summer,Athina,Boxing,Boxing Men's Bantamweight,No Medal,Kyrgyzstan
+625,362,Isao Ko Abe,M,24.0,177.0,75.0,Japan,JPN,1936 Summer,1936,Summer,Berlin,Athletics,Athletics Men's Hammer Throw,No Medal,Japan
+626,363,Kazumi Abe,M,24.0,178.0,67.0,Japan-1,JPN,1972 Winter,1972,Winter,Sapporo,Bobsleigh,Bobsleigh Men's Two,No Medal,Japan
+627,363,Kazumi Abe,M,24.0,178.0,67.0,Japan-1,JPN,1972 Winter,1972,Winter,Sapporo,Bobsleigh,Bobsleigh Men's Four,No Medal,Japan
+628,363,Kazumi Abe,M,28.0,178.0,67.0,Japan-1,JPN,1976 Winter,1976,Winter,Innsbruck,Bobsleigh,Bobsleigh Men's Two,No Medal,Japan
+629,363,Kazumi Abe,M,28.0,178.0,67.0,Japan,JPN,1976 Winter,1976,Winter,Innsbruck,Bobsleigh,Bobsleigh Men's Four,No Medal,Japan
+630,364,Kazuo Abe,M,25.0,166.0,69.0,Japan,JPN,1960 Summer,1960,Summer,Roma,Wrestling,"Wrestling Men's Lightweight, Freestyle",No Medal,Japan
+631,365,Kinya Abe,M,23.0,168.0,68.0,Japan,JPN,1992 Summer,1992,Summer,Barcelona,Fencing,"Fencing Men's Foil, Individual",No Medal,Japan
+632,366,Kiyoshi Abe,M,25.0,167.0,62.0,Japan,JPN,1972 Summer,1972,Summer,Munich,Wrestling,"Wrestling Men's Featherweight, Freestyle",No Medal,Japan
+633,367,Masashi Abe,M,22.0,175.0,64.0,Japan,JPN,1988 Winter,1988,Winter,Calgary,Nordic Combined,Nordic Combined Men's Team,No Medal,Japan
+634,367,Masashi Abe,M,22.0,175.0,64.0,Japan,JPN,1988 Winter,1988,Winter,Calgary,Nordic Combined,Nordic Combined Men's Individual,No Medal,Japan
+635,367,Masashi Abe,M,26.0,175.0,64.0,Japan,JPN,1992 Winter,1992,Winter,Albertville,Nordic Combined,Nordic Combined Men's Individual,No Medal,Japan
+636,367,Masashi Abe,M,28.0,175.0,64.0,Japan,JPN,1994 Winter,1994,Winter,Lillehammer,Nordic Combined,Nordic Combined Men's Team,Gold,Japan
+637,367,Masashi Abe,M,28.0,175.0,64.0,Japan,JPN,1994 Winter,1994,Winter,Lillehammer,Nordic Combined,Nordic Combined Men's Individual,No Medal,Japan
+638,368,Naoki Abe,M,23.0,173.0,68.0,Japan,JPN,1968 Summer,1968,Summer,Mexico City,Athletics,Athletics Men's 4 x 100 metres Relay,No Medal,Japan
+639,368,Naoki Abe,M,23.0,173.0,68.0,Japan,JPN,1968 Summer,1968,Summer,Mexico City,Athletics,Athletics Men's Long Jump,No Medal,Japan
+641,370,Shigeaki Abe,M,24.0,178.0,70.0,Japan,JPN,1972 Summer,1972,Summer,Munich,Basketball,Basketball Men's Basketball,No Medal,Japan
+642,370,Shigeaki Abe,M,28.0,178.0,70.0,Japan,JPN,1976 Summer,1976,Summer,Montreal,Basketball,Basketball Men's Basketball,No Medal,Japan
+643,371,Shinnosuke Abe,M,21.0,179.0,91.0,Japan,JPN,2000 Summer,2000,Summer,Sydney,Baseball,Baseball Men's Baseball,No Medal,Japan
+644,371,Shinnosuke Abe,M,29.0,179.0,91.0,Japan,JPN,2008 Summer,2008,Summer,Beijing,Baseball,Baseball Men's Baseball,No Medal,Japan
+645,372,"Sanshiro ""Sonny"" Abe",M,26.0,166.0,57.0,Japan,JPN,1996 Summer,1996,Summer,Atlanta,Wrestling,"Wrestling Men's Bantamweight, Freestyle",No Medal,Japan
+646,373,Tadashi Abe,M,21.0,190.0,80.0,Japan,JPN,1984 Summer,1984,Summer,Los Angeles,Rowing,Rowing Men's Coxed Fours,No Medal,Japan
+647,373,Tadashi Abe,M,25.0,190.0,80.0,Japan,JPN,1988 Summer,1988,Summer,Seoul,Rowing,Rowing Men's Coxed Eights,No Medal,Japan
+648,373,Tadashi Abe,M,29.0,190.0,80.0,Japan,JPN,1992 Summer,1992,Summer,Barcelona,Rowing,Rowing Men's Coxed Eights,No Medal,Japan
+649,374,Tadatoshi Abe,M,28.0,170.0,60.0,Japan,JPN,1960 Summer,1960,Summer,Roma,Hockey,Hockey Men's Hockey,No Medal,Japan
+650,375,Wakako Abe,F,18.0,168.0,60.0,Japan,JPN,1984 Summer,1984,Summer,Los Angeles,Cycling,"Cycling Women's Road Race, Individual",No Medal,Japan
+651,376,Yoshiyuki Abe,M,31.0,175.0,67.0,Japan,JPN,2000 Summer,2000,Summer,Sydney,Cycling,"Cycling Men's Road Race, Individual",No Medal,Japan
+652,377,Yuki Abe,M,22.0,177.0,75.0,Japan,JPN,2004 Summer,2004,Summer,Athina,Football,Football Men's Football,No Medal,Japan
+654,379,Addis Abebe,M,21.0,160.0,50.0,Ethiopia,ETH,1992 Summer,1992,Summer,Barcelona,Athletics,"Athletics Men's 5,000 metres",No Medal,Ethiopia
+655,379,Addis Abebe,M,21.0,160.0,50.0,Ethiopia,ETH,1992 Summer,1992,Summer,Barcelona,Athletics,"Athletics Men's 10,000 metres",Bronze,Ethiopia
+656,380,Biruk Abebe,M,22.0,173.0,62.0,Ethiopia,ETH,1992 Summer,1992,Summer,Barcelona,Cycling,"Cycling Men's Road Race, Individual",No Medal,Ethiopia
+657,380,Biruk Abebe,M,22.0,173.0,62.0,Ethiopia,ETH,1992 Summer,1992,Summer,Barcelona,Cycling,Cycling Men's 100 kilometres Team Time Trial,No Medal,Ethiopia
+658,381,Benaissa Abed,M,23.0,170.0,51.0,Algeria,ALG,1988 Summer,1988,Summer,Seoul,Boxing,Boxing Men's Flyweight,No Medal,Algeria
+660,383,Mojtaba Abedini Shormasti,M,27.0,180.0,83.0,Iran,IRI,2012 Summer,2012,Summer,London,Fencing,"Fencing Men's Sabre, Individual",No Medal,Iran
+661,383,Mojtaba Abedini Shormasti,M,31.0,180.0,83.0,Iran,IRI,2016 Summer,2016,Summer,Rio de Janeiro,Fencing,"Fencing Men's Sabre, Individual",No Medal,Iran
+665,386,Alexandre Abeid,M,22.0,194.0,92.0,Brazil,BRA,1972 Summer,1972,Summer,Munich,Volleyball,Volleyball Men's Volleyball,No Medal,Brazil
+666,386,Alexandre Abeid,M,26.0,194.0,92.0,Brazil,BRA,1976 Summer,1976,Summer,Montreal,Volleyball,Volleyball Men's Volleyball,No Medal,Brazil
+667,387,Sonia Abejn Esteban,F,19.0,169.0,48.0,Spain,ESP,2004 Summer,2004,Summer,Athina,Rhythmic Gymnastics,Rhythmic Gymnastics Women's Group,No Medal,Spain
+668,388,Abel Carlos da Silva Braga,M,19.0,190.0,73.0,Brazil,BRA,1972 Summer,1972,Summer,Munich,Football,Football Men's Football,No Medal,Brazil
+671,390,Brooke Abel,F,20.0,163.0,52.0,United States,USA,2008 Summer,2008,Summer,Beijing,Synchronized Swimming,Synchronized Swimming Women's Team,No Medal,USA
+672,391,Clarence John Abel,M,23.0,185.0,102.0,United States,USA,1924 Winter,1924,Winter,Chamonix,Ice Hockey,Ice Hockey Men's Ice Hockey,Silver,USA
+674,393,Gnther Abel,M,19.0,183.0,80.0,West Germany,FRG,1976 Winter,1976,Winter,Innsbruck,Nordic Combined,Nordic Combined Men's Individual,No Medal,Germany
+675,393,Gnther Abel,M,23.0,183.0,80.0,West Germany,FRG,1980 Winter,1980,Winter,Lake Placid,Nordic Combined,Nordic Combined Men's Individual,No Medal,Germany
+676,394,Irene Abel,F,19.0,160.0,48.0,East Germany,GDR,1972 Summer,1972,Summer,Munich,Gymnastics,Gymnastics Women's Individual All-Around,No Medal,Germany
+677,394,Irene Abel,F,19.0,160.0,48.0,East Germany,GDR,1972 Summer,1972,Summer,Munich,Gymnastics,Gymnastics Women's Team All-Around,Silver,Germany
+678,394,Irene Abel,F,19.0,160.0,48.0,East Germany,GDR,1972 Summer,1972,Summer,Munich,Gymnastics,Gymnastics Women's Floor Exercise,No Medal,Germany
+679,394,Irene Abel,F,19.0,160.0,48.0,East Germany,GDR,1972 Summer,1972,Summer,Munich,Gymnastics,Gymnastics Women's Horse Vault,No Medal,Germany
+680,394,Irene Abel,F,19.0,160.0,48.0,East Germany,GDR,1972 Summer,1972,Summer,Munich,Gymnastics,Gymnastics Women's Uneven Bars,No Medal,Germany
+681,394,Irene Abel,F,19.0,160.0,48.0,East Germany,GDR,1972 Summer,1972,Summer,Munich,Gymnastics,Gymnastics Women's Balance Beam,No Medal,Germany
+682,395,Jennifer Abel,F,16.0,160.0,62.0,Canada,CAN,2008 Summer,2008,Summer,Beijing,Diving,Diving Women's Springboard,No Medal,Canada
+683,395,Jennifer Abel,F,20.0,160.0,62.0,Canada,CAN,2012 Summer,2012,Summer,London,Diving,Diving Women's Springboard,No Medal,Canada
+684,395,Jennifer Abel,F,20.0,160.0,62.0,Canada,CAN,2012 Summer,2012,Summer,London,Diving,Diving Women's Synchronized Springboard,Bronze,Canada
+685,395,Jennifer Abel,F,24.0,160.0,62.0,Canada,CAN,2016 Summer,2016,Summer,Rio de Janeiro,Diving,Diving Women's Springboard,No Medal,Canada
+686,395,Jennifer Abel,F,24.0,160.0,62.0,Canada,CAN,2016 Summer,2016,Summer,Rio de Janeiro,Diving,Diving Women's Synchronized Springboard,No Medal,Canada
+687,396,Katja Abel,F,25.0,165.0,55.0,Germany,GER,2008 Summer,2008,Summer,Beijing,Gymnastics,Gymnastics Women's Individual All-Around,No Medal,Germany
+688,396,Katja Abel,F,25.0,165.0,55.0,Germany,GER,2008 Summer,2008,Summer,Beijing,Gymnastics,Gymnastics Women's Team All-Around,No Medal,Germany
+689,396,Katja Abel,F,25.0,165.0,55.0,Germany,GER,2008 Summer,2008,Summer,Beijing,Gymnastics,Gymnastics Women's Floor Exercise,No Medal,Germany
+690,396,Katja Abel,F,25.0,165.0,55.0,Germany,GER,2008 Summer,2008,Summer,Beijing,Gymnastics,Gymnastics Women's Uneven Bars,No Medal,Germany
+691,396,Katja Abel,F,25.0,165.0,55.0,Germany,GER,2008 Summer,2008,Summer,Beijing,Gymnastics,Gymnastics Women's Balance Beam,No Medal,Germany
+692,397,Mara Abel Diguez,F,25.0,163.0,46.0,Spain,ESP,2000 Summer,2000,Summer,Sydney,Athletics,"Athletics Women's 10,000 metres",No Medal,Spain
+693,397,Mara Abel Diguez,F,29.0,163.0,46.0,Spain,ESP,2004 Summer,2004,Summer,Athina,Athletics,Athletics Women's Marathon,No Medal,Spain
+703,402,Arthur Abele,M,22.0,184.0,85.0,Germany,GER,2008 Summer,2008,Summer,Beijing,Athletics,Athletics Men's Decathlon,No Medal,Germany
+704,402,Arthur Abele,M,30.0,184.0,85.0,Germany,GER,2016 Summer,2016,Summer,Rio de Janeiro,Athletics,Athletics Men's Decathlon,No Medal,Germany
+705,403,Ruth Abeles,F,18.0,153.0,48.0,Israel,ISR,1960 Summer,1960,Summer,Roma,Gymnastics,Gymnastics Women's Individual All-Around,No Medal,Israel
+706,403,Ruth Abeles,F,18.0,153.0,48.0,Israel,ISR,1960 Summer,1960,Summer,Roma,Gymnastics,Gymnastics Women's Floor Exercise,No Medal,Israel
+707,403,Ruth Abeles,F,18.0,153.0,48.0,Israel,ISR,1960 Summer,1960,Summer,Roma,Gymnastics,Gymnastics Women's Horse Vault,No Medal,Israel
+708,403,Ruth Abeles,F,18.0,153.0,48.0,Israel,ISR,1960 Summer,1960,Summer,Roma,Gymnastics,Gymnastics Women's Uneven Bars,No Medal,Israel
+709,403,Ruth Abeles,F,18.0,153.0,48.0,Israel,ISR,1960 Summer,1960,Summer,Roma,Gymnastics,Gymnastics Women's Balance Beam,No Medal,Israel
+712,405,Jos Javier Abella Fanjul,M,22.0,176.0,66.0,Mexico,MEX,2016 Summer,2016,Summer,Rio de Janeiro,Football,Football Men's Football,No Medal,Mexico
+717,408,Alfonso Abelln Lpez,M,37.0,174.0,63.0,Spain,ESP,1988 Summer,1988,Summer,Seoul,Athletics,Athletics Men's Marathon,No Medal,Spain
